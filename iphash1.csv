@@ -1,0 +1,901 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1730398163033,309,Login Request,200,OK,Thread Group 1-172,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,236,0,59
+1730398163264,391,Login Request,200,OK,Thread Group 1-179,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,391,0,33
+1730398161617,1728,Login Request,200,OK,Thread Group 1-55,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1728,0,909
+1730398162949,397,Login Request,200,OK,Thread Group 1-167,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,321,0,143
+1730398161595,2094,Login Request,200,OK,Thread Group 1-103,text,true,,620,259,188,188,http://gryffindor.hogwarts.A49.com/php/login,2093,0,608
+1730398161274,2417,Login Request,200,OK,Thread Group 1-23,text,true,,620,259,188,188,http://gryffindor.hogwarts.A49.com/php/login,1937,0,925
+1730398161341,2349,Login Request,200,OK,Thread Group 1-79,text,true,,620,259,188,188,http://gryffindor.hogwarts.A49.com/php/login,1869,0,896
+1730398161976,1714,Login Request,200,OK,Thread Group 1-129,text,true,,620,259,188,188,http://gryffindor.hogwarts.A49.com/php/login,1714,0,228
+1730398161293,2399,Login Request,200,OK,Thread Group 1-52,text,true,,620,259,188,188,http://gryffindor.hogwarts.A49.com/php/login,1998,0,855
+1730398161600,2085,Login Request,200,OK,Thread Group 1-99,text,true,,620,259,188,188,http://gryffindor.hogwarts.A49.com/php/login,2085,0,861
+1730398161347,2325,Login Request,200,OK,Thread Group 1-80,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1861,0,857
+1730398161618,2054,Login Request,200,OK,Thread Group 1-7,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1591,0,920
+1730398161700,1971,Login Request,200,OK,Thread Group 1-113,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1592,0,815
+1730398161686,1985,Login Request,200,OK,Thread Group 1-71,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1613,0,767
+1730398161269,2421,Login Request,200,OK,Thread Group 1-29,text,true,,620,259,188,188,http://gryffindor.hogwarts.A49.com/php/login,1941,0,878
+1730398161353,2336,Login Request,200,OK,Thread Group 1-82,text,true,,620,259,188,188,http://gryffindor.hogwarts.A49.com/php/login,1856,0,839
+1730398161662,2009,Login Request,200,OK,Thread Group 1-110,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1635,0,853
+1730398161667,2004,Login Request,200,OK,Thread Group 1-107,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1630,0,847
+1730398161298,2393,Login Request,200,OK,Thread Group 1-12,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,1912,0,927
+1730398161670,2000,Login Request,200,OK,Thread Group 1-63,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1627,0,861
+1730398161599,2071,Login Request,200,OK,Thread Group 1-98,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1699,0,866
+1730398161668,2000,Login Request,200,OK,Thread Group 1-111,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1631,0,799
+1730398162376,1324,Login Request,200,OK,Thread Group 1-153,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,914,0,82
+1730398161307,2361,Login Request,200,OK,Thread Group 1-48,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1899,0,898
+1730398161307,2360,Login Request,200,OK,Thread Group 1-40,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1898,0,844
+1730398161870,1797,Login Request,200,OK,Thread Group 1-119,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1334,0,284
+1730398161300,2367,Login Request,200,OK,Thread Group 1-27,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1972,0,897
+1730398161308,2399,Login Request,200,OK,Thread Group 1-46,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,1982,0,931
+1730398161935,1772,Login Request,200,OK,Thread Group 1-123,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,1772,0,343
+1730398161280,2382,Login Request,200,OK,Thread Group 1-54,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,2382,0,911
+1730398161314,2397,Login Request,200,OK,Thread Group 1-21,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,2397,0,957
+1730398161594,1763,Login Request,200,OK,Thread Group 1-93,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1762,0,598
+1730398161593,2119,Login Request,200,OK,Thread Group 1-95,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,1697,0,873
+1730398161269,2445,Login Request,200,OK,Thread Group 1-4,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,2445,0,914
+1730398161270,2445,Login Request,200,OK,Thread Group 1-8,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,2445,0,927
+1730398161343,2318,Login Request,200,OK,Thread Group 1-81,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,2318,0,874
+1730398161248,2469,Login Request,200,OK,Thread Group 1-36,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,2042,0,1217
+1730398162305,1356,Login Request,200,OK,Thread Group 1-146,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1355,0,231
+1730398161305,2405,Login Request,200,OK,Thread Group 1-49,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,1985,0,1159
+1730398161786,1919,Login Request,200,OK,Thread Group 1-116,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,1504,0,682
+1730398162182,1536,Login Request,200,OK,Thread Group 1-144,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,1107,0,38
+1730398161597,2122,Login Request,200,OK,Thread Group 1-88,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,1692,0,618
+1730398161598,2121,Login Request,200,OK,Thread Group 1-94,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,1691,0,867
+1730398161307,2413,Login Request,200,OK,Thread Group 1-42,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,1982,0,933
+1730398161599,2121,Login Request,200,OK,Thread Group 1-104,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,1690,0,858
+1730398162987,734,Login Request,200,OK,Thread Group 1-169,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,301,0,110
+1730398161629,2092,Login Request,200,OK,Thread Group 1-109,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,1659,0,893
+1730398161607,2116,Login Request,200,OK,Thread Group 1-26,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,1682,0,865
+1730398161599,2060,Login Request,200,OK,Thread Group 1-97,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,2060,0,863
+1730398161267,2456,Login Request,200,OK,Thread Group 1-1,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,2021,0,1191
+1730398161794,1865,Login Request,200,OK,Thread Group 1-117,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1570,0,669
+1730398163279,379,Login Request,200,OK,Thread Group 1-180,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,379,0,36
+1730398163276,382,Login Request,200,OK,Thread Group 1-182,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,382,0,23
+1730398161269,2454,Login Request,200,OK,Thread Group 1-24,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,2019,0,892
+1730398161259,2464,Login Request,200,OK,Thread Group 1-16,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,1954,0,1268
+1730398161688,2034,Login Request,200,OK,Thread Group 1-69,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,1599,0,770
+1730398163154,504,Login Request,200,OK,Thread Group 1-175,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,504,0,84
+1730398162080,1647,Login Request,200,OK,Thread Group 1-138,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1647,0,81
+1730398163197,460,Login Request,200,OK,Thread Group 1-178,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,460,0,42
+1730398163162,495,Login Request,200,OK,Thread Group 1-176,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,495,0,76
+1730398161646,2081,Login Request,200,OK,Thread Group 1-58,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1641,0,816
+1730398162323,1405,Login Request,200,OK,Thread Group 1-147,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,889,0,223
+1730398161598,2130,Login Request,200,OK,Thread Group 1-86,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1614,0,931
+1730398161680,2021,Login Request,200,OK,Thread Group 1-62,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,1610,0,774
+1730398161598,2102,Login Request,200,OK,Thread Group 1-85,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,1692,0,857
+1730398161614,2115,Login Request,200,OK,Thread Group 1-14,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1600,0,919
+1730398161619,2109,Login Request,200,OK,Thread Group 1-106,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1594,0,904
+1730398162340,1388,Login Request,200,OK,Thread Group 1-149,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,873,0,170
+1730398161688,2041,Login Request,200,OK,Thread Group 1-37,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1526,0,834
+1730398161641,2088,Login Request,200,OK,Thread Group 1-64,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1575,0,884
+1730398161264,2466,Login Request,200,OK,Thread Group 1-9,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1953,0,1273
+1730398162340,1353,Login Request,200,OK,Thread Group 1-148,text,true,,620,259,189,189,http://gryffindor.hogwarts.A49.com/php/login,870,0,130
+1730398161308,2383,Login Request,200,OK,Thread Group 1-45,text,true,,620,259,188,188,http://gryffindor.hogwarts.A49.com/php/login,1902,0,878
+1730398162510,1219,Login Request,200,OK,Thread Group 1-157,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,706,0,68
+1730398161813,1916,Login Request,200,OK,Thread Group 1-118,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1404,0,707
+1730398161622,2109,Login Request,200,OK,Thread Group 1-56,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1596,0,948
+1730398162502,1230,Login Request,200,OK,Thread Group 1-156,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,725,0,194
+1730398163199,458,Login Request,200,OK,Thread Group 1-177,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,458,0,37
+1730398163273,384,Login Request,200,OK,Thread Group 1-181,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,384,0,26
+1730398161303,2497,Login Request,200,OK,Thread Group 1-61,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,2497,0,881
+1730398161281,2520,Login Request,200,OK,Thread Group 1-25,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,2520,0,949
+1730398163336,465,Login Request,200,OK,Thread Group 1-183,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,465,0,28
+1730398163148,509,Login Request,200,OK,Thread Group 1-174,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,509,0,79
+1730398162364,1440,Login Request,200,OK,Thread Group 1-152,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,864,0,166
+1730398161870,1935,Login Request,200,OK,Thread Group 1-121,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1935,0,368
+1730398161675,2133,Login Request,200,OK,Thread Group 1-50,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1554,0,859
+1730398161268,2540,Login Request,200,OK,Thread Group 1-51,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,2540,0,920
+1730398162907,902,Login Request,200,OK,Thread Group 1-168,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,322,0,16
+1730398161616,2195,Login Request,200,OK,Thread Group 1-105,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1670,0,847
+1730398161671,2141,Login Request,200,OK,Thread Group 1-68,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1558,0,845
+1730398161309,2505,Login Request,200,OK,Thread Group 1-2,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1895,0,925
+1730398161364,2449,Login Request,200,OK,Thread Group 1-83,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1908,0,873
+1730398162762,1038,Login Request,200,OK,Thread Group 1-164,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,466,0,95
+1730398161254,2560,Login Request,200,OK,Thread Group 1-74,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,2017,0,1210
+1730398161307,2419,Login Request,200,OK,Thread Group 1-35,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,2419,0,841
+1730398162078,1737,Login Request,200,OK,Thread Group 1-140,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1193,0,85
+1730398161624,2107,Login Request,200,OK,Thread Group 1-65,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1594,0,940
+1730398161875,1941,Login Request,200,OK,Thread Group 1-120,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1305,0,363
+1730398161304,2515,Login Request,200,OK,Thread Group 1-15,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1968,0,849
+1730398161687,2132,Login Request,200,OK,Thread Group 1-22,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1543,0,847
+1730398161658,2161,Login Request,200,OK,Thread Group 1-72,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1571,0,875
+1730398161963,1802,Login Request,200,OK,Thread Group 1-128,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1802,0,274
+1730398161592,2228,Login Request,200,OK,Thread Group 1-100,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1638,0,980
+1730398163691,127,Home Request,200,OK,Thread Group 1-79,text,false,Test failed: text expected to contain /Logout/,620,138,191,191,http://gryffindor.hogwarts.A49.com/php/home,127,0,0
+1730398161644,2177,Login Request,200,OK,Thread Group 1-66,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1588,0,929
+1730398161277,2544,Login Request,200,OK,Thread Group 1-75,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,2544,0,908
+1730398161594,2131,Login Request,200,OK,Thread Group 1-91,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,2131,0,604
+1730398161710,2112,Login Request,200,OK,Thread Group 1-112,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1523,0,811
+1730398161372,2353,Login Request,200,OK,Thread Group 1-84,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,2353,0,786
+1730398162005,1720,Login Request,200,OK,Thread Group 1-134,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1720,0,205
+1730398161893,1930,Login Request,200,OK,Thread Group 1-115,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1930,0,301
+1730398161306,2418,Login Request,200,OK,Thread Group 1-60,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,2418,0,893
+1730398162665,1159,Login Request,200,OK,Thread Group 1-158,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,568,0,65
+1730398161307,2418,Login Request,200,OK,Thread Group 1-5,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,2418,0,935
+1730398162078,1746,Login Request,200,OK,Thread Group 1-139,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1746,0,66
+1730398163683,447,Login Request,200,OK,Thread Group 1-184,text,true,,620,259,199,199,http://gryffindor.hogwarts.A49.com/php/login,447,0,119
+1730398162153,1571,Login Request,200,OK,Thread Group 1-142,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,1571,0,68
+1730398161302,2423,Login Request,200,OK,Thread Group 1-39,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,2423,0,972
+1730398161339,2354,Login Request,200,OK,Thread Group 1-28,text,true,,620,259,188,188,http://gryffindor.hogwarts.A49.com/php/login,1952,0,862
+1730398163659,495,Login Request,200,OK,Thread Group 1-185,text,true,,620,259,200,200,http://gryffindor.hogwarts.A49.com/php/login,479,0,69
+1730398163018,1131,Login Request,200,OK,Thread Group 1-171,text,true,,620,259,199,199,http://gryffindor.hogwarts.A49.com/php/login,1130,0,1107
+1730398163675,462,Login Request,200,OK,Thread Group 1-186,text,true,,620,259,199,199,http://gryffindor.hogwarts.A49.com/php/login,461,0,54
+1730398163995,152,Login Request,200,OK,Thread Group 1-197,text,true,,620,259,199,199,http://gryffindor.hogwarts.A49.com/php/login,152,0,129
+1730398163994,146,Login Request,200,OK,Thread Group 1-199,text,true,,620,259,199,199,http://gryffindor.hogwarts.A49.com/php/login,145,0,131
+1730398163686,443,Login Request,200,OK,Thread Group 1-188,text,true,,620,259,199,199,http://gryffindor.hogwarts.A49.com/php/login,443,0,112
+1730398163821,305,Logout Request,200,OK,Thread Group 1-79,text,true,,620,140,199,199,http://gryffindor.hogwarts.A49.com/php/logout,305,0,0
+1730398161281,2084,Login Request,200,OK,Thread Group 1-19,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,2084,0,952
+1730398162350,1014,Login Request,200,OK,Thread Group 1-150,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1014,0,102
+1730398161592,1772,Login Request,200,OK,Thread Group 1-101,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1772,0,634
+1730398161314,2051,Login Request,200,OK,Thread Group 1-6,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,2051,0,831
+1730398163677,538,Login Request,200,OK,Thread Group 1-187,text,true,,620,259,208,208,http://gryffindor.hogwarts.A49.com/php/login,538,0,53
+1730398163824,392,Login Request,200,OK,Thread Group 1-191,text,true,,620,259,208,208,http://gryffindor.hogwarts.A49.com/php/login,392,0,55
+1730398163934,294,Login Request,200,OK,Thread Group 1-194,text,true,,620,259,211,211,http://gryffindor.hogwarts.A49.com/php/login,294,0,34
+1730398163809,316,Home Request,200,OK,Thread Group 1-117,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,316,0,0
+1730398162251,1112,Login Request,200,OK,Thread Group 1-143,text,true,,620,259,184,184,http://gryffindor.hogwarts.A49.com/php/login,1112,0,218
+1730398163820,407,Home Request,200,OK,Thread Group 1-128,text,false,Test failed: text expected to contain /Logout/,620,138,211,211,http://gryffindor.hogwarts.A49.com/php/home,305,0,0
+1730398161593,1770,Login Request,200,OK,Thread Group 1-96,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1770,0,632
+1730398161596,1767,Login Request,200,OK,Thread Group 1-73,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1767,0,604
+1730398161308,2054,Login Request,200,OK,Thread Group 1-47,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,2054,0,884
+1730398161273,2090,Login Request,200,OK,Thread Group 1-11,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,2089,0,923
+1730398161303,2058,Login Request,200,OK,Thread Group 1-53,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,2058,0,968
+1730398162006,1354,Login Request,200,OK,Thread Group 1-133,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1354,0,213
+1730398161942,1418,Login Request,200,OK,Thread Group 1-126,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1418,0,298
+1730398161342,2018,Login Request,200,OK,Thread Group 1-18,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,2018,0,773
+1730398162024,1335,Login Request,200,OK,Thread Group 1-135,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1335,0,257
+1730398161298,2061,Login Request,200,OK,Thread Group 1-33,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,2061,0,974
+1730398163824,403,Home Request,200,OK,Thread Group 1-134,text,false,Test failed: text expected to contain /Logout/,620,138,211,211,http://gryffindor.hogwarts.A49.com/php/home,403,0,0
+1730398161977,1381,Login Request,200,OK,Thread Group 1-130,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1381,0,298
+1730398161931,1427,Login Request,200,OK,Thread Group 1-125,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1427,0,299
+1730398163824,301,Home Request,200,OK,Thread Group 1-60,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,301,0,0
+1730398161269,2088,Login Request,200,OK,Thread Group 1-44,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,2088,0,920
+1730398163771,409,Home Request,200,OK,Thread Group 1-86,text,false,Test failed: text expected to contain /Logout/,620,138,204,204,http://gryffindor.hogwarts.A49.com/php/home,354,0,0
+1730398163802,378,Home Request,200,OK,Thread Group 1-174,text,false,Test failed: text expected to contain /Logout/,620,138,204,204,http://gryffindor.hogwarts.A49.com/php/home,378,0,0
+1730398163806,374,Home Request,200,OK,Thread Group 1-121,text,false,Test failed: text expected to contain /Logout/,620,138,204,204,http://gryffindor.hogwarts.A49.com/php/home,374,0,0
+1730398163803,377,Home Request,200,OK,Thread Group 1-182,text,false,Test failed: text expected to contain /Logout/,620,138,204,204,http://gryffindor.hogwarts.A49.com/php/home,377,0,0
+1730398161279,2079,Login Request,200,OK,Thread Group 1-34,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,2079,0,962
+1730398161285,2072,Login Request,200,OK,Thread Group 1-77,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,2070,0,903
+1730398161294,2064,Login Request,200,OK,Thread Group 1-17,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,2064,0,980
+1730398163810,369,Home Request,200,OK,Thread Group 1-168,text,false,Test failed: text expected to contain /Logout/,620,138,204,204,http://gryffindor.hogwarts.A49.com/php/home,369,0,0
+1730398162001,1356,Login Request,200,OK,Thread Group 1-132,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1356,0,237
+1730398161297,2060,Login Request,200,OK,Thread Group 1-78,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,2057,0,908
+1730398163802,325,Home Request,200,OK,Thread Group 1-183,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,325,0,0
+1730398161310,2047,Login Request,200,OK,Thread Group 1-20,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,2047,0,960
+1730398163807,372,Home Request,200,OK,Thread Group 1-180,text,false,Test failed: text expected to contain /Logout/,620,138,204,204,http://gryffindor.hogwarts.A49.com/php/home,372,0,0
+1730398162041,1313,Login Request,200,OK,Thread Group 1-136,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1313,0,198
+1730398161303,2051,Login Request,200,OK,Thread Group 1-32,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,2051,0,978
+1730398161290,2062,Login Request,200,OK,Thread Group 1-76,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,2062,0,900
+1730398161309,2043,Login Request,200,OK,Thread Group 1-43,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,2043,0,963
+1730398163953,321,Login Request,200,OK,Thread Group 1-195,text,true,,620,259,214,214,http://gryffindor.hogwarts.A49.com/php/login,321,0,180
+1730398163698,292,Home Request,200,OK,Thread Group 1-12,text,false,Test failed: text expected to contain /Logout/,620,138,198,198,http://gryffindor.hogwarts.A49.com/php/home,292,0,0
+1730398163691,130,Home Request,200,OK,Thread Group 1-129,text,false,Test failed: text expected to contain /Logout/,620,138,191,191,http://gryffindor.hogwarts.A49.com/php/home,130,0,0
+1730398164179,97,Home Request,200,OK,Thread Group 1-28,text,false,Test failed: text expected to contain /Logout/,620,138,214,214,http://gryffindor.hogwarts.A49.com/php/home,96,0,0
+1730398163695,128,Home Request,200,OK,Thread Group 1-80,text,false,Test failed: text expected to contain /Logout/,620,138,191,191,http://gryffindor.hogwarts.A49.com/php/home,127,0,0
+1730398163815,363,Home Request,200,OK,Thread Group 1-35,text,false,Test failed: text expected to contain /Logout/,620,138,204,204,http://gryffindor.hogwarts.A49.com/php/home,363,0,0
+1730398163690,133,Home Request,200,OK,Thread Group 1-167,text,false,Test failed: text expected to contain /Logout/,620,138,191,191,http://gryffindor.hogwarts.A49.com/php/home,133,0,0
+1730398164155,123,Login Request,200,OK,Thread Group 1-201,text,true,,620,259,214,214,http://gryffindor.hogwarts.A49.com/php/login,123,0,24
+1730398164180,99,Home Request,200,OK,Thread Group 1-185,text,false,Test failed: text expected to contain /Logout/,620,138,214,214,http://gryffindor.hogwarts.A49.com/php/home,99,0,0
+1730398164175,105,Home Request,200,OK,Thread Group 1-142,text,false,Test failed: text expected to contain /Logout/,620,138,214,214,http://gryffindor.hogwarts.A49.com/php/home,105,0,0
+1730398161991,1361,Login Request,200,OK,Thread Group 1-131,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1360,0,206
+1730398164175,107,Home Request,200,OK,Thread Group 1-184,text,false,Test failed: text expected to contain /Logout/,620,138,214,214,http://gryffindor.hogwarts.A49.com/php/home,107,0,0
+1730398163790,385,Home Request,200,OK,Thread Group 1-58,text,false,Test failed: text expected to contain /Logout/,620,138,204,204,http://gryffindor.hogwarts.A49.com/php/home,385,0,0
+1730398163816,313,Home Request,200,OK,Thread Group 1-94,text,false,Test failed: text expected to contain /Logout/,620,138,204,204,http://gryffindor.hogwarts.A49.com/php/home,313,0,0
+1730398164183,105,Home Request,200,OK,Thread Group 1-171,text,false,Test failed: text expected to contain /Logout/,620,138,214,214,http://gryffindor.hogwarts.A49.com/php/home,105,0,0
+1730398164167,123,Home Request,200,OK,Thread Group 1-55,text,false,Test failed: text expected to contain /Logout/,620,138,214,214,http://gryffindor.hogwarts.A49.com/php/home,122,0,0
+1730398161590,1761,Login Request,200,OK,Thread Group 1-102,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1761,0,860
+1730398162086,1264,Login Request,200,OK,Thread Group 1-141,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1264,0,69
+1730398164152,145,Login Request,200,OK,Thread Group 1-202,text,true,,620,259,214,214,http://gryffindor.hogwarts.A49.com/php/login,145,0,27
+1730398164183,115,Home Request,200,OK,Thread Group 1-199,text,false,Test failed: text expected to contain /Logout/,620,138,214,214,http://gryffindor.hogwarts.A49.com/php/home,115,0,0
+1730398161594,1756,Login Request,200,OK,Thread Group 1-92,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1756,0,625
+1730398164183,117,Home Request,200,OK,Thread Group 1-186,text,false,Test failed: text expected to contain /Logout/,620,138,214,214,http://gryffindor.hogwarts.A49.com/php/home,117,0,0
+1730398162245,1104,Login Request,200,OK,Thread Group 1-145,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1104,0,215
+1730398163804,370,Home Request,200,OK,Thread Group 1-152,text,false,Test failed: text expected to contain /Logout/,620,138,204,204,http://gryffindor.hogwarts.A49.com/php/home,370,0,0
+1730398164176,125,Home Request,200,OK,Thread Group 1-39,text,false,Test failed: text expected to contain /Logout/,620,138,214,214,http://gryffindor.hogwarts.A49.com/php/home,125,0,0
+1730398163817,484,Home Request,200,OK,Thread Group 1-120,text,false,Test failed: text expected to contain /Logout/,620,138,214,214,http://gryffindor.hogwarts.A49.com/php/home,484,0,0
+1730398161597,1751,Login Request,200,OK,Thread Group 1-87,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1719,0,868
+1730398163024,324,Login Request,200,OK,Thread Group 1-170,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,247,0,88
+1730398161307,2041,Login Request,200,OK,Thread Group 1-41,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1963,0,882
+1730398164174,129,Home Request,200,OK,Thread Group 1-139,text,false,Test failed: text expected to contain /Logout/,620,138,214,214,http://gryffindor.hogwarts.A49.com/php/home,128,0,0
+1730398162961,386,Login Request,200,OK,Thread Group 1-165,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,309,0,133
+1730398161687,1661,Login Request,200,OK,Thread Group 1-38,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1652,0,774
+1730398161876,1470,Login Request,200,OK,Thread Group 1-124,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1470,0,335
+1730398161303,2044,Login Request,200,OK,Thread Group 1-31,text,true,,620,259,183,183,http://gryffindor.hogwarts.A49.com/php/login,1878,0,910
+1730398163247,694,Login Request,200,OK,Thread Group 1-173,text,true,,620,259,194,194,http://gryffindor.hogwarts.A49.com/php/login,694,0,50
+1730398163351,304,Home Request,200,OK,Thread Group 1-172,text,false,Test failed: text expected to contain /Logout/,620,138,184,184,http://gryffindor.hogwarts.A49.com/php/home,304,0,0
+1730398163694,230,Login Request,200,OK,Thread Group 1-190,text,true,,620,259,194,194,http://gryffindor.hogwarts.A49.com/php/login,230,0,83
+1730398163787,384,Home Request,200,OK,Thread Group 1-69,text,false,Test failed: text expected to contain /Logout/,620,138,204,204,http://gryffindor.hogwarts.A49.com/php/home,373,0,0
+1730398161601,2300,Login Request,200,OK,Thread Group 1-89,text,true,,620,259,194,194,http://gryffindor.hogwarts.A49.com/php/login,1640,0,923
+1730398162424,1476,Login Request,200,OK,Thread Group 1-155,text,true,,620,259,194,194,http://gryffindor.hogwarts.A49.com/php/login,817,0,143
+1730398161865,2010,Login Request,200,OK,Thread Group 1-122,text,true,,620,259,193,193,http://gryffindor.hogwarts.A49.com/php/login,1375,0,655
+1730398163695,185,Home Request,200,OK,Thread Group 1-7,text,false,Test failed: text expected to contain /Logout/,620,138,193,193,http://gryffindor.hogwarts.A49.com/php/home,185,0,0
+1730398163697,186,Home Request,200,OK,Thread Group 1-29,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,186,0,0
+1730398163693,190,Home Request,200,OK,Thread Group 1-52,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,190,0,0
+1730398163732,171,Home Request,200,OK,Thread Group 1-56,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,171,0,0
+1730398163712,191,Home Request,200,OK,Thread Group 1-93,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,172,0,0
+1730398163706,197,Home Request,200,OK,Thread Group 1-27,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,197,0,0
+1730398163702,207,Home Request,200,OK,Thread Group 1-40,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,207,0,0
+1730398163701,209,Home Request,200,OK,Thread Group 1-48,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,209,0,0
+1730398163824,504,Home Request,200,OK,Thread Group 1-5,text,false,Test failed: text expected to contain /Logout/,620,138,215,215,http://gryffindor.hogwarts.A49.com/php/home,504,0,0
+1730398161596,2279,Login Request,200,OK,Thread Group 1-90,text,true,,620,259,193,193,http://gryffindor.hogwarts.A49.com/php/login,1644,0,923
+1730398162899,974,Login Request,200,OK,Thread Group 1-166,text,true,,620,259,193,193,http://gryffindor.hogwarts.A49.com/php/login,340,0,24
+1730398163713,198,Home Request,200,OK,Thread Group 1-4,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,198,0,0
+1730398163698,214,Home Request,200,OK,Thread Group 1-82,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,214,0,0
+1730398162687,1185,Login Request,200,OK,Thread Group 1-161,text,true,,620,259,193,193,http://gryffindor.hogwarts.A49.com/php/login,551,0,41
+1730398161863,2009,Login Request,200,OK,Thread Group 1-114,text,true,,620,259,193,193,http://gryffindor.hogwarts.A49.com/php/login,1377,0,654
+1730398162360,1511,Login Request,200,OK,Thread Group 1-151,text,true,,620,259,193,193,http://gryffindor.hogwarts.A49.com/php/login,880,0,206
+1730398162428,1336,Login Request,200,OK,Thread Group 1-154,text,true,,620,259,190,190,http://gryffindor.hogwarts.A49.com/php/login,799,0,149
+1730398162045,1784,Login Request,200,OK,Thread Group 1-137,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1212,0,150
+1730398163818,525,Home Request,200,OK,Thread Group 1-15,text,false,Test failed: text expected to contain /Logout/,620,138,216,216,http://gryffindor.hogwarts.A49.com/php/home,525,0,0
+1730398163767,156,Home Request,200,OK,Thread Group 1-149,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,156,0,0
+1730398163816,528,Home Request,200,OK,Thread Group 1-140,text,false,Test failed: text expected to contain /Logout/,620,138,216,216,http://gryffindor.hogwarts.A49.com/php/home,528,0,0
+1730398163697,227,Home Request,200,OK,Thread Group 1-71,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,227,0,0
+1730398161313,2518,Login Request,200,OK,Thread Group 1-30,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,2406,0,929
+1730398161967,1862,Login Request,200,OK,Thread Group 1-127,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1862,0,247
+1730398163700,224,Home Request,200,OK,Thread Group 1-98,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,224,0,0
+1730398163704,221,Home Request,200,OK,Thread Group 1-119,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,221,0,0
+1730398163733,192,Home Request,200,OK,Thread Group 1-156,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,192,0,0
+1730398163819,530,Home Request,200,OK,Thread Group 1-116,text,false,Test failed: text expected to contain /Logout/,620,138,216,216,http://gryffindor.hogwarts.A49.com/php/home,530,0,0
+1730398163764,162,Home Request,200,OK,Thread Group 1-181,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,162,0,0
+1730398163765,161,Home Request,200,OK,Thread Group 1-64,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,161,0,0
+1730398163709,218,Home Request,200,OK,Thread Group 1-54,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,218,0,0
+1730398161672,2158,Login Request,200,OK,Thread Group 1-10,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,2158,0,430
+1730398163691,238,Home Request,200,OK,Thread Group 1-23,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,238,0,0
+1730398163729,202,Home Request,200,OK,Thread Group 1-99,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,202,0,0
+1730398163732,200,Home Request,200,OK,Thread Group 1-45,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,200,0,0
+1730398163769,164,Home Request,200,OK,Thread Group 1-85,text,false,Test failed: text expected to contain /Logout/,620,138,194,194,http://gryffindor.hogwarts.A49.com/php/home,163,0,0
+1730398161305,2524,Login Request,200,OK,Thread Group 1-3,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,2524,0,931
+1730398161312,2516,Login Request,200,OK,Thread Group 1-59,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,2516,0,871
+1730398161623,1720,Login Request,200,OK,Thread Group 1-13,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1720,0,912
+1730398163766,388,Home Request,200,OK,Thread Group 1-148,text,false,Test failed: text expected to contain /Logout/,620,138,202,202,http://gryffindor.hogwarts.A49.com/php/home,388,0,0
+1730398163715,435,Home Request,200,OK,Thread Group 1-8,text,false,Test failed: text expected to contain /Logout/,620,138,202,202,http://gryffindor.hogwarts.A49.com/php/home,435,0,0
+1730398163733,417,Home Request,200,OK,Thread Group 1-9,text,false,Test failed: text expected to contain /Logout/,620,138,200,200,http://gryffindor.hogwarts.A49.com/php/home,417,0,0
+1730398163768,382,Home Request,200,OK,Thread Group 1-106,text,false,Test failed: text expected to contain /Logout/,620,138,200,200,http://gryffindor.hogwarts.A49.com/php/home,382,0,0
+1730398163767,383,Home Request,200,OK,Thread Group 1-37,text,false,Test failed: text expected to contain /Logout/,620,138,200,200,http://gryffindor.hogwarts.A49.com/php/home,369,0,0
+1730398163697,454,Home Request,200,OK,Thread Group 1-113,text,false,Test failed: text expected to contain /Logout/,620,138,200,200,http://gryffindor.hogwarts.A49.com/php/home,453,0,0
+1730398163772,380,Home Request,200,OK,Thread Group 1-147,text,false,Test failed: text expected to contain /Logout/,620,138,200,200,http://gryffindor.hogwarts.A49.com/php/home,380,0,0
+1730398163801,350,Home Request,200,OK,Thread Group 1-61,text,false,Test failed: text expected to contain /Logout/,620,138,200,200,http://gryffindor.hogwarts.A49.com/php/home,350,0,0
+1730398163786,365,Home Request,200,OK,Thread Group 1-175,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,365,0,0
+1730398163730,420,Home Request,200,OK,Thread Group 1-118,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,406,0,0
+1730398163783,352,Home Request,200,OK,Thread Group 1-138,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,352,0,0
+1730398163730,406,Home Request,200,OK,Thread Group 1-146,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,406,0,0
+1730398163699,451,Home Request,200,OK,Thread Group 1-63,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,451,0,0
+1730398162822,1004,Login Request,200,OK,Thread Group 1-163,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,416,0,84
+1730398163699,448,Home Request,200,OK,Thread Group 1-107,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,448,0,0
+1730398163717,424,Home Request,200,OK,Thread Group 1-36,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,424,0,0
+1730398163713,426,Home Request,200,OK,Thread Group 1-95,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,426,0,0
+1730398163708,431,Home Request,200,OK,Thread Group 1-123,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,431,0,0
+1730398163701,437,Home Request,200,OK,Thread Group 1-111,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,437,0,0
+1730398163768,369,Home Request,200,OK,Thread Group 1-14,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,369,0,0
+1730398163699,438,Home Request,200,OK,Thread Group 1-110,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,438,0,0
+1730398163771,365,Home Request,200,OK,Thread Group 1-62,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,365,0,0
+1730398163790,346,Home Request,200,OK,Thread Group 1-16,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,346,0,0
+1730398161618,2208,Login Request,200,OK,Thread Group 1-57,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1619,0,953
+1730398163823,602,Home Request,200,OK,Thread Group 1-91,text,false,Test failed: text expected to contain /Logout/,620,138,220,220,http://gryffindor.hogwarts.A49.com/php/home,602,0,0
+1730398162693,1133,Login Request,200,OK,Thread Group 1-162,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,544,0,45
+1730398161680,2145,Login Request,200,OK,Thread Group 1-70,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1554,0,896
+1730398161642,2183,Login Request,200,OK,Thread Group 1-67,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1592,0,876
+1730398161634,2191,Login Request,200,OK,Thread Group 1-108,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,1600,0,890
+1730398162631,1194,Login Request,200,OK,Thread Group 1-159,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,603,0,97
+1730398162639,1185,Login Request,200,OK,Thread Group 1-160,text,true,,620,259,191,191,http://gryffindor.hogwarts.A49.com/php/login,594,0,107
+1730398163823,585,Home Request,200,OK,Thread Group 1-84,text,false,Test failed: text expected to contain /Logout/,620,138,218,218,http://gryffindor.hogwarts.A49.com/php/home,585,0,0
+1730398163785,366,Home Request,200,OK,Thread Group 1-178,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,366,0,0
+1730398163769,363,Home Request,200,OK,Thread Group 1-153,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,363,0,0
+1730398163813,319,Home Request,200,OK,Thread Group 1-2,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,319,0,0
+1730398163822,523,Home Request,200,OK,Thread Group 1-75,text,false,Test failed: text expected to contain /Logout/,620,138,216,216,http://gryffindor.hogwarts.A49.com/php/home,523,0,0
+1730398163814,315,Home Request,200,OK,Thread Group 1-104,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,315,0,0
+1730398163731,604,Login Request,200,OK,Thread Group 1-189,text,true,,620,259,216,216,http://gryffindor.hogwarts.A49.com/php/login,604,0,149
+1730398163815,313,Home Request,200,OK,Thread Group 1-74,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,313,0,0
+1730398163812,316,Home Request,200,OK,Thread Group 1-1,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,316,0,0
+1730398163819,514,Home Request,200,OK,Thread Group 1-88,text,false,Test failed: text expected to contain /Logout/,620,138,216,216,http://gryffindor.hogwarts.A49.com/php/home,514,0,0
+1730398163813,315,Home Request,200,OK,Thread Group 1-169,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,315,0,0
+1730398163814,313,Home Request,200,OK,Thread Group 1-164,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,313,0,0
+1730398163818,515,Home Request,200,OK,Thread Group 1-144,text,false,Test failed: text expected to contain /Logout/,620,138,216,216,http://gryffindor.hogwarts.A49.com/php/home,515,0,0
+1730398163824,508,Home Request,200,OK,Thread Group 1-158,text,false,Test failed: text expected to contain /Logout/,620,138,216,216,http://gryffindor.hogwarts.A49.com/php/home,508,0,0
+1730398163694,130,Home Request,200,OK,Thread Group 1-103,text,false,Test failed: text expected to contain /Logout/,620,138,191,191,http://gryffindor.hogwarts.A49.com/php/home,129,0,0
+1730398164163,140,Home Request,200,OK,Thread Group 1-179,text,false,Test failed: text expected to contain /Logout/,620,138,214,214,http://gryffindor.hogwarts.A49.com/php/home,140,0,0
+1730398163813,490,Home Request,200,OK,Thread Group 1-83,text,false,Test failed: text expected to contain /Logout/,620,138,214,214,http://gryffindor.hogwarts.A49.com/php/home,490,0,0
+1730398163843,385,Login Request,200,OK,Thread Group 1-193,text,true,,620,259,211,211,http://gryffindor.hogwarts.A49.com/php/login,385,0,58
+1730398163868,318,Login Request,200,OK,Thread Group 1-192,text,true,,620,259,205,205,http://gryffindor.hogwarts.A49.com/php/login,318,0,21
+1730398163781,349,Home Request,200,OK,Thread Group 1-176,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,348,0,0
+1730398163811,319,Home Request,200,OK,Thread Group 1-51,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,319,0,0
+1730398163811,319,Home Request,200,OK,Thread Group 1-105,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,319,0,0
+1730398163810,321,Home Request,200,OK,Thread Group 1-26,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,321,0,0
+1730398163809,323,Home Request,200,OK,Thread Group 1-97,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,323,0,0
+1730398163749,382,Home Request,200,OK,Thread Group 1-177,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,382,0,0
+1730398163711,420,Home Request,200,OK,Thread Group 1-21,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,420,0,0
+1730398163789,344,Home Request,200,OK,Thread Group 1-24,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,344,0,0
+1730398163812,320,Home Request,200,OK,Thread Group 1-68,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,320,0,0
+1730398163716,418,Home Request,200,OK,Thread Group 1-81,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,416,0,0
+1730398163808,327,Home Request,200,OK,Thread Group 1-50,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,327,0,0
+1730398163731,404,Home Request,200,OK,Thread Group 1-157,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,404,0,0
+1730398163819,686,Home Request,200,OK,Thread Group 1-22,text,false,Test failed: text expected to contain /Logout/,620,138,221,221,http://gryffindor.hogwarts.A49.com/php/home,686,0,0
+1730398164245,261,Logout Request,200,OK,Thread Group 1-117,text,true,,620,140,221,221,http://gryffindor.hogwarts.A49.com/php/logout,261,0,0
+1730398163821,685,Home Request,200,OK,Thread Group 1-66,text,false,Test failed: text expected to contain /Logout/,620,138,221,221,http://gryffindor.hogwarts.A49.com/php/home,685,0,0
+1730398163811,696,Home Request,200,OK,Thread Group 1-109,text,false,Test failed: text expected to contain /Logout/,620,138,221,221,http://gryffindor.hogwarts.A49.com/php/home,696,0,0
+1730398163817,310,Home Request,200,OK,Thread Group 1-65,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,310,0,0
+1730398164275,251,Logout Request,200,OK,Thread Group 1-12,text,true,,620,140,220,220,http://gryffindor.hogwarts.A49.com/php/logout,250,0,0
+1730398163795,331,Home Request,200,OK,Thread Group 1-49,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,331,0,0
+1730398163823,684,Home Request,200,OK,Thread Group 1-112,text,false,Test failed: text expected to contain /Logout/,620,138,221,221,http://gryffindor.hogwarts.A49.com/php/home,684,0,0
+1730398164230,278,Home Request,200,OK,Thread Group 1-101,text,false,Test failed: text expected to contain /Logout/,620,138,220,220,http://gryffindor.hogwarts.A49.com/php/home,278,0,0
+1730398164232,294,Home Request,200,OK,Thread Group 1-187,text,false,Test failed: text expected to contain /Logout/,620,138,220,220,http://gryffindor.hogwarts.A49.com/php/home,294,0,0
+1730398163801,326,Home Request,200,OK,Thread Group 1-25,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,325,0,0
+1730398164233,292,Home Request,200,OK,Thread Group 1-194,text,false,Test failed: text expected to contain /Logout/,620,138,220,220,http://gryffindor.hogwarts.A49.com/php/home,292,0,0
+1730398164280,245,Logout Request,200,OK,Thread Group 1-185,text,true,,620,140,220,220,http://gryffindor.hogwarts.A49.com/php/logout,245,0,0
+1730398164280,244,Logout Request,200,OK,Thread Group 1-142,text,true,,620,140,220,220,http://gryffindor.hogwarts.A49.com/php/logout,244,0,0
+1730398164283,241,Logout Request,200,OK,Thread Group 1-184,text,true,,620,140,220,220,http://gryffindor.hogwarts.A49.com/php/logout,241,0,0
+1730398163820,704,Home Request,200,OK,Thread Group 1-100,text,false,Test failed: text expected to contain /Logout/,620,138,220,220,http://gryffindor.hogwarts.A49.com/php/home,703,0,0
+1730398164261,263,Logout Request,200,OK,Thread Group 1-134,text,true,,620,140,220,220,http://gryffindor.hogwarts.A49.com/php/logout,263,0,0
+1730398164232,291,Home Request,200,OK,Thread Group 1-150,text,false,Test failed: text expected to contain /Logout/,620,138,220,220,http://gryffindor.hogwarts.A49.com/php/home,291,0,0
+1730398164232,291,Home Request,200,OK,Thread Group 1-191,text,false,Test failed: text expected to contain /Logout/,620,138,220,220,http://gryffindor.hogwarts.A49.com/php/home,291,0,0
+1730398164265,258,Logout Request,200,OK,Thread Group 1-121,text,true,,620,140,220,220,http://gryffindor.hogwarts.A49.com/php/logout,257,0,0
+1730398164251,258,Logout Request,200,OK,Thread Group 1-128,text,true,,620,140,220,220,http://gryffindor.hogwarts.A49.com/php/logout,257,0,0
+1730398163830,296,Home Request,200,OK,Thread Group 1-46,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,296,0,0
+1730398163819,306,Home Request,200,OK,Thread Group 1-72,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,306,0,0
+1730398163815,485,Home Request,200,OK,Thread Group 1-42,text,false,Test failed: text expected to contain /Logout/,620,138,214,214,http://gryffindor.hogwarts.A49.com/php/home,485,0,0
+1730398164184,116,Home Request,200,OK,Thread Group 1-197,text,false,Test failed: text expected to contain /Logout/,620,138,214,214,http://gryffindor.hogwarts.A49.com/php/home,116,0,0
+1730398163984,577,Login Request,200,OK,Thread Group 1-198,text,true,,620,259,216,216,http://gryffindor.hogwarts.A49.com/php/login,577,0,140
+1730398164255,309,Home Request,200,OK,Thread Group 1-53,text,false,Test failed: text expected to contain /Logout/,620,138,216,216,http://gryffindor.hogwarts.A49.com/php/home,309,0,0
+1730398164292,317,Home Request,200,OK,Thread Group 1-141,text,false,Test failed: text expected to contain /Logout/,620,138,216,216,http://gryffindor.hogwarts.A49.com/php/home,317,0,0
+1730398164305,346,Home Request,200,OK,Thread Group 1-38,text,false,Test failed: text expected to contain /Logout/,620,138,216,216,http://gryffindor.hogwarts.A49.com/php/home,346,0,0
+1730398164271,381,Home Request,200,OK,Thread Group 1-76,text,false,Test failed: text expected to contain /Logout/,620,138,216,216,http://gryffindor.hogwarts.A49.com/php/home,381,0,0
+1730398164188,465,Login Request,200,OK,Thread Group 1-206,text,true,,620,259,216,216,http://gryffindor.hogwarts.A49.com/php/login,465,0,86
+1730398164317,337,Logout Request,200,OK,Thread Group 1-48,text,true,,620,140,216,216,http://gryffindor.hogwarts.A49.com/php/logout,337,0,0
+1730398164272,382,Home Request,200,OK,Thread Group 1-43,text,false,Test failed: text expected to contain /Logout/,620,138,216,216,http://gryffindor.hogwarts.A49.com/php/home,382,0,0
+1730398164269,386,Home Request,200,OK,Thread Group 1-20,text,false,Test failed: text expected to contain /Logout/,620,138,216,216,http://gryffindor.hogwarts.A49.com/php/home,386,0,0
+1730398164316,339,Logout Request,200,OK,Thread Group 1-40,text,true,,620,140,215,215,http://gryffindor.hogwarts.A49.com/php/logout,339,0,0
+1730398164315,342,Logout Request,200,OK,Thread Group 1-27,text,true,,620,140,214,214,http://gryffindor.hogwarts.A49.com/php/logout,342,0,0
+1730398164310,348,Logout Request,200,OK,Thread Group 1-29,text,true,,620,140,214,214,http://gryffindor.hogwarts.A49.com/php/logout,348,0,0
+1730398164309,350,Logout Request,200,OK,Thread Group 1-7,text,true,,620,140,213,213,http://gryffindor.hogwarts.A49.com/php/logout,350,0,0
+1730398164256,403,Home Request,200,OK,Thread Group 1-133,text,false,Test failed: text expected to contain /Logout/,620,138,213,213,http://gryffindor.hogwarts.A49.com/php/home,403,0,0
+1730398164252,409,Home Request,200,OK,Thread Group 1-73,text,false,Test failed: text expected to contain /Logout/,620,138,213,213,http://gryffindor.hogwarts.A49.com/php/home,409,0,0
+1730398164290,372,Logout Request,200,OK,Thread Group 1-55,text,true,,620,140,213,213,http://gryffindor.hogwarts.A49.com/php/logout,372,0,0
+1730398164254,408,Home Request,200,OK,Thread Group 1-11,text,false,Test failed: text expected to contain /Logout/,620,138,213,213,http://gryffindor.hogwarts.A49.com/php/home,408,0,0
+1730398164277,386,Logout Request,200,OK,Thread Group 1-80,text,true,,620,140,213,213,http://gryffindor.hogwarts.A49.com/php/logout,386,0,0
+1730398164257,406,Home Request,200,OK,Thread Group 1-126,text,false,Test failed: text expected to contain /Logout/,620,138,213,213,http://gryffindor.hogwarts.A49.com/php/home,406,0,0
+1730398164337,333,Logout Request,200,OK,Thread Group 1-4,text,true,,620,140,213,213,http://gryffindor.hogwarts.A49.com/php/logout,332,0,0
+1730398164312,361,Logout Request,200,OK,Thread Group 1-56,text,true,,620,140,213,213,http://gryffindor.hogwarts.A49.com/php/logout,361,0,0
+1730398164305,368,Home Request,200,OK,Thread Group 1-124,text,false,Test failed: text expected to contain /Logout/,620,138,213,213,http://gryffindor.hogwarts.A49.com/php/home,368,0,0
+1730398164287,613,Logout Request,200,OK,Thread Group 1-94,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,613,0,0
+1730398164543,357,Logout Request,200,OK,Thread Group 1-65,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,357,0,0
+1730398164289,612,Logout Request,200,OK,Thread Group 1-171,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,612,0,0
+1730398164260,641,Home Request,200,OK,Thread Group 1-33,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,641,0,0
+1730398164371,530,Home Request,200,OK,Thread Group 1-3,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,530,0,0
+1730398164291,611,Home Request,200,OK,Thread Group 1-102,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,611,0,0
+1730398164263,639,Home Request,200,OK,Thread Group 1-44,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,639,0,0
+1730398164555,348,Logout Request,200,OK,Thread Group 1-46,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,348,0,0
+1730398164594,310,Logout Request,200,OK,Thread Group 1-81,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,310,0,0
+1730398164559,346,Logout Request,200,OK,Thread Group 1-72,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,345,0,0
+1730398164277,658,Logout Request,200,OK,Thread Group 1-28,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,657,0,0
+1730398164341,597,Home Request,200,OK,Thread Group 1-154,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,597,0,0
+1730398164428,511,Home Request,200,OK,Thread Group 1-70,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,510,0,0
+1730398164430,510,Home Request,200,OK,Thread Group 1-108,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,510,0,0
+1730398164398,542,Logout Request,200,OK,Thread Group 1-146,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,542,0,0
+1730398164369,572,Logout Request,200,OK,Thread Group 1-85,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,571,0,0
+1730398164431,510,Home Request,200,OK,Thread Group 1-159,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,510,0,0
+1730398164477,464,Home Request,200,OK,Thread Group 1-189,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,464,0,0
+1730398164427,514,Home Request,200,OK,Thread Group 1-162,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,514,0,0
+1730398164486,455,Logout Request,200,OK,Thread Group 1-169,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,455,0,0
+1730398164432,509,Home Request,200,OK,Thread Group 1-160,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,509,0,0
+1730398164396,546,Logout Request,200,OK,Thread Group 1-118,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,546,0,0
+1730398164423,519,Login Request,200,OK,Thread Group 1-223,text,true,,620,259,212,212,http://gryffindor.hogwarts.A49.com/php/login,519,0,83
+1730398164329,613,Logout Request,200,OK,Thread Group 1-5,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,613,0,0
+1730398164415,528,Login Request,200,OK,Thread Group 1-222,text,true,,620,259,212,212,http://gryffindor.hogwarts.A49.com/php/login,527,0,93
+1730398164399,544,Logout Request,200,OK,Thread Group 1-63,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,544,0,0
+1730398164460,483,Logout Request,200,OK,Thread Group 1-153,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,483,0,0
+1730398164596,348,Logout Request,200,OK,Thread Group 1-68,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,348,0,0
+1730398164383,561,Logout Request,200,OK,Thread Group 1-37,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,561,0,0
+1730398164381,564,Logout Request,200,OK,Thread Group 1-9,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,564,0,0
+1730398164306,639,Home Request,200,OK,Thread Group 1-173,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,639,0,0
+1730398164311,635,Logout Request,200,OK,Thread Group 1-52,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,635,0,0
+1730398164380,590,Logout Request,200,OK,Thread Group 1-8,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,590,0,0
+1730398164349,622,Logout Request,200,OK,Thread Group 1-156,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,622,0,0
+1730398164347,625,Logout Request,200,OK,Thread Group 1-98,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,625,0,0
+1730398164346,626,Logout Request,200,OK,Thread Group 1-71,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,626,0,0
+1730398164366,607,Logout Request,200,OK,Thread Group 1-23,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,607,0,0
+1730398164388,585,Logout Request,200,OK,Thread Group 1-61,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,585,0,0
+1730398164350,623,Logout Request,200,OK,Thread Group 1-181,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,623,0,0
+1730398164382,591,Logout Request,200,OK,Thread Group 1-106,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,591,0,0
+1730398164386,588,Logout Request,200,OK,Thread Group 1-113,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,588,0,0
+1730398164354,621,Login Request,200,OK,Thread Group 1-219,text,true,,620,259,212,212,http://gryffindor.hogwarts.A49.com/php/login,621,0,76
+1730398164481,494,Logout Request,200,OK,Thread Group 1-74,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,494,0,0
+1730398164211,764,Home Request,200,OK,Thread Group 1-19,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,764,0,0
+1730398164379,596,Home Request,200,OK,Thread Group 1-13,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,596,0,0
+1730398164424,552,Home Request,200,OK,Thread Group 1-57,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,552,0,0
+1730398164190,788,Login Request,200,OK,Thread Group 1-205,text,true,,620,259,212,212,http://gryffindor.hogwarts.A49.com/php/login,788,0,130
+1730398164220,759,Login Request,200,OK,Thread Group 1-211,text,true,,620,259,212,212,http://gryffindor.hogwarts.A49.com/php/login,759,0,101
+1730398164597,383,Logout Request,200,OK,Thread Group 1-24,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,383,0,0
+1730398164598,382,Logout Request,200,OK,Thread Group 1-21,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,382,0,0
+1730398164347,634,Home Request,200,OK,Thread Group 1-127,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,634,0,0
+1730398164662,321,Logout Request,200,OK,Thread Group 1-73,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,321,0,0
+1730398164656,328,Logout Request,200,OK,Thread Group 1-43,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,328,0,0
+1730398164655,330,Logout Request,200,OK,Thread Group 1-20,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,330,0,0
+1730398164213,772,Login Request,200,OK,Thread Group 1-210,text,true,,620,259,212,212,http://gryffindor.hogwarts.A49.com/php/login,772,0,107
+1730398163823,1162,Home Request,200,OK,Thread Group 1-115,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,1162,0,0
+1730398164279,706,Home Request,200,OK,Thread Group 1-201,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,706,0,0
+1730398164671,315,Logout Request,200,OK,Thread Group 1-22,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,315,0,0
+1730398164279,707,Logout Request,200,OK,Thread Group 1-167,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,707,0,0
+1730398164213,774,Login Request,200,OK,Thread Group 1-208,text,true,,620,259,212,212,http://gryffindor.hogwarts.A49.com/php/login,774,0,464
+1730398164241,746,Login Request,200,OK,Thread Group 1-214,text,true,,620,259,212,212,http://gryffindor.hogwarts.A49.com/php/login,746,0,433
+1730398164653,334,Logout Request,200,OK,Thread Group 1-76,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,334,0,0
+1730398164230,757,Login Request,200,OK,Thread Group 1-212,text,true,,620,259,212,212,http://gryffindor.hogwarts.A49.com/php/login,757,0,446
+1730398164666,321,Logout Request,200,OK,Thread Group 1-42,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,321,0,0
+1730398164570,418,Logout Request,200,OK,Thread Group 1-50,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,418,0,0
+1730398164300,688,Logout Request,200,OK,Thread Group 1-186,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,688,0,0
+1730398164485,504,Logout Request,200,OK,Thread Group 1-1,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,503,0,0
+1730398164669,320,Logout Request,200,OK,Thread Group 1-187,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,319,0,0
+1730398164668,321,Logout Request,200,OK,Thread Group 1-100,text,true,,620,140,211,211,http://gryffindor.hogwarts.A49.com/php/logout,321,0,0
+1730398164252,738,Home Request,200,OK,Thread Group 1-96,text,false,Test failed: text expected to contain /Logout/,620,138,210,210,http://gryffindor.hogwarts.A49.com/php/home,738,0,0
+1730398164302,689,Home Request,200,OK,Thread Group 1-87,text,false,Test failed: text expected to contain /Logout/,620,138,209,209,http://gryffindor.hogwarts.A49.com/php/home,689,0,0
+1730398164308,686,Home Request,200,OK,Thread Group 1-155,text,false,Test failed: text expected to contain /Logout/,620,138,209,209,http://gryffindor.hogwarts.A49.com/php/home,686,0,0
+1730398164652,336,Logout Request,200,OK,Thread Group 1-38,text,true,,620,140,212,212,http://gryffindor.hogwarts.A49.com/php/logout,336,0,0
+1730398164667,328,Logout Request,200,OK,Thread Group 1-191,text,true,,620,140,209,209,http://gryffindor.hogwarts.A49.com/php/logout,328,0,0
+1730398164304,693,Logout Request,200,OK,Thread Group 1-139,text,true,,620,140,208,208,http://gryffindor.hogwarts.A49.com/php/logout,693,0,0
+1730398164376,621,Home Request,200,OK,Thread Group 1-59,text,false,Test failed: text expected to contain /Logout/,620,138,208,208,http://gryffindor.hogwarts.A49.com/php/home,621,0,0
+1730398164622,376,Logout Request,200,OK,Thread Group 1-158,text,true,,620,140,208,208,http://gryffindor.hogwarts.A49.com/php/logout,376,0,0
+1730398164282,717,Home Request,200,OK,Thread Group 1-131,text,false,Test failed: text expected to contain /Logout/,620,138,208,208,http://gryffindor.hogwarts.A49.com/php/home,717,0,0
+1730398164619,380,Logout Request,200,OK,Thread Group 1-83,text,true,,620,140,208,208,http://gryffindor.hogwarts.A49.com/php/logout,380,0,0
+1730398164278,722,Logout Request,200,OK,Thread Group 1-35,text,true,,620,140,208,208,http://gryffindor.hogwarts.A49.com/php/logout,722,0,0
+1730398164254,748,Home Request,200,OK,Thread Group 1-47,text,false,Test failed: text expected to contain /Logout/,620,138,208,208,http://gryffindor.hogwarts.A49.com/php/home,748,0,0
+1730398164363,640,Home Request,200,OK,Thread Group 1-10,text,false,Test failed: text expected to contain /Logout/,620,138,208,208,http://gryffindor.hogwarts.A49.com/php/home,640,0,0
+1730398164268,735,Home Request,200,OK,Thread Group 1-78,text,false,Test failed: text expected to contain /Logout/,620,138,208,208,http://gryffindor.hogwarts.A49.com/php/home,735,0,0
+1730398164367,637,Logout Request,200,OK,Thread Group 1-99,text,true,,620,140,208,208,http://gryffindor.hogwarts.A49.com/php/logout,637,0,0
+1730398164264,717,Logout Request,200,OK,Thread Group 1-174,text,true,,620,140,208,208,http://gryffindor.hogwarts.A49.com/php/logout,717,0,0
+1730398164610,395,Logout Request,200,OK,Thread Group 1-141,text,true,,620,140,209,209,http://gryffindor.hogwarts.A49.com/php/logout,395,0,0
+1730398164671,334,Logout Request,200,OK,Thread Group 1-101,text,true,,620,140,208,208,http://gryffindor.hogwarts.A49.com/php/logout,334,0,0
+1730398164247,758,Home Request,200,OK,Thread Group 1-143,text,false,Test failed: text expected to contain /Logout/,620,138,209,209,http://gryffindor.hogwarts.A49.com/php/home,758,0,0
+1730398164306,714,Logout Request,200,OK,Thread Group 1-172,text,true,,620,140,202,202,http://gryffindor.hogwarts.A49.com/php/logout,714,0,0
+1730398164303,720,Home Request,200,OK,Thread Group 1-170,text,false,Test failed: text expected to contain /Logout/,620,138,200,200,http://gryffindor.hogwarts.A49.com/php/home,720,0,0
+1730398164668,344,Logout Request,200,OK,Thread Group 1-150,text,true,,620,140,207,207,http://gryffindor.hogwarts.A49.com/php/logout,344,0,0
+1730398164338,686,Home Request,200,OK,Thread Group 1-161,text,false,Test failed: text expected to contain /Logout/,620,138,200,200,http://gryffindor.hogwarts.A49.com/php/home,686,0,0
+1730398164265,752,Home Request,200,OK,Thread Group 1-34,text,false,Test failed: text expected to contain /Logout/,620,138,206,206,http://gryffindor.hogwarts.A49.com/php/home,752,0,0
+1730398164670,347,Logout Request,200,OK,Thread Group 1-194,text,true,,620,140,206,206,http://gryffindor.hogwarts.A49.com/php/logout,347,0,0
+1730398164902,115,Logout Request,200,OK,Thread Group 1-33,text,true,,620,140,206,206,http://gryffindor.hogwarts.A49.com/php/logout,115,0,0
+1730398164565,451,Logout Request,200,OK,Thread Group 1-53,text,true,,620,140,206,206,http://gryffindor.hogwarts.A49.com/php/logout,451,0,0
+1730398164259,405,Home Request,200,OK,Thread Group 1-135,text,false,Test failed: text expected to contain /Logout/,620,138,206,206,http://gryffindor.hogwarts.A49.com/php/home,405,0,0
+1730398164304,712,Home Request,200,OK,Thread Group 1-41,text,false,Test failed: text expected to contain /Logout/,620,138,206,206,http://gryffindor.hogwarts.A49.com/php/home,712,0,0
+1730398164485,531,Logout Request,200,OK,Thread Group 1-88,text,true,,620,140,206,206,http://gryffindor.hogwarts.A49.com/php/logout,531,0,0
+1730398164343,672,Home Request,200,OK,Thread Group 1-137,text,false,Test failed: text expected to contain /Logout/,620,138,207,207,http://gryffindor.hogwarts.A49.com/php/home,672,0,0
+1730398164902,112,Logout Request,200,OK,Thread Group 1-102,text,true,,620,140,207,207,http://gryffindor.hogwarts.A49.com/php/logout,112,0,0
+1730398164645,360,Logout Request,200,OK,Thread Group 1-104,text,true,,620,140,191,191,http://gryffindor.hogwarts.A49.com/php/logout,360,0,0
+1730398164350,646,Logout Request,200,OK,Thread Group 1-116,text,true,,620,140,190,190,http://gryffindor.hogwarts.A49.com/php/logout,645,0,0
+1730398164258,756,Home Request,200,OK,Thread Group 1-18,text,false,Test failed: text expected to contain /Logout/,620,138,207,207,http://gryffindor.hogwarts.A49.com/php/home,756,0,0
+1730398164266,906,Home Request,200,OK,Thread Group 1-17,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,906,0,0
+1730398164330,842,Home Request,200,OK,Thread Group 1-90,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,842,0,0
+1730398164339,849,Home Request,200,OK,Thread Group 1-114,text,false,Test failed: text expected to contain /Logout/,620,138,188,188,http://gryffindor.hogwarts.A49.com/php/home,848,0,0
+1730398164264,925,Logout Request,200,OK,Thread Group 1-86,text,true,,620,140,188,188,http://gryffindor.hogwarts.A49.com/php/logout,925,0,0
+1730398164302,888,Logout Request,200,OK,Thread Group 1-152,text,true,,620,140,187,187,http://gryffindor.hogwarts.A49.com/php/logout,888,0,0
+1730398164270,902,Home Request,200,OK,Thread Group 1-32,text,false,Test failed: text expected to contain /Logout/,620,138,199,199,http://gryffindor.hogwarts.A49.com/php/home,902,0,0
+1730398164307,864,Home Request,200,OK,Thread Group 1-165,text,false,Test failed: text expected to contain /Logout/,620,138,200,200,http://gryffindor.hogwarts.A49.com/php/home,864,0,0
+1730398164312,858,Home Request,200,OK,Thread Group 1-89,text,false,Test failed: text expected to contain /Logout/,620,138,200,200,http://gryffindor.hogwarts.A49.com/php/home,858,0,0
+1730398164286,884,Logout Request,200,OK,Thread Group 1-58,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,884,0,0
+1730398164940,230,Logout Request,200,OK,Thread Group 1-70,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,230,0,0
+1730398164976,193,Logout Request,200,OK,Thread Group 1-19,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,193,0,0
+1730398164977,192,Logout Request,200,OK,Thread Group 1-57,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,192,0,0
+1730398164976,193,Logout Request,200,OK,Thread Group 1-13,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,193,0,0
+1730398164344,858,Logout Request,200,OK,Thread Group 1-15,text,true,,620,140,182,182,http://gryffindor.hogwarts.A49.com/php/logout,858,0,0
+1730398164432,771,Login Request,200,OK,Thread Group 1-224,text,true,,620,259,182,182,http://gryffindor.hogwarts.A49.com/php/login,771,0,93
+1730398164670,498,Logout Request,200,OK,Thread Group 1-25,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,497,0,0
+1730398164274,943,Home Request,200,OK,Thread Group 1-195,text,false,Test failed: text expected to contain /Logout/,620,138,180,180,http://gryffindor.hogwarts.A49.com/php/home,943,0,0
+1730398164268,949,Logout Request,200,OK,Thread Group 1-183,text,true,,620,140,180,180,http://gryffindor.hogwarts.A49.com/php/logout,949,0,0
+1730398164164,1054,Login Request,200,OK,Thread Group 1-204,text,true,,620,259,180,180,http://gryffindor.hogwarts.A49.com/php/login,1053,0,84
+1730398164234,984,Home Request,200,OK,Thread Group 1-6,text,false,Test failed: text expected to contain /Logout/,620,138,180,180,http://gryffindor.hogwarts.A49.com/php/home,984,0,0
+1730398164346,874,Home Request,200,OK,Thread Group 1-30,text,false,Test failed: text expected to contain /Logout/,620,138,176,176,http://gryffindor.hogwarts.A49.com/php/home,874,0,0
+1730398164605,418,Logout Request,200,OK,Thread Group 1-176,text,true,,620,140,176,176,http://gryffindor.hogwarts.A49.com/php/logout,418,0,0
+1730398164269,952,Logout Request,200,OK,Thread Group 1-180,text,true,,620,140,176,176,http://gryffindor.hogwarts.A49.com/php/logout,952,0,0
+1730398164299,923,Logout Request,200,OK,Thread Group 1-199,text,true,,620,140,175,175,http://gryffindor.hogwarts.A49.com/php/logout,923,0,0
+1730398164991,176,Logout Request,200,OK,Thread Group 1-87,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,176,0,0
+1730398164993,173,Logout Request,200,OK,Thread Group 1-49,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,173,0,0
+1730398164299,927,Home Request,200,OK,Thread Group 1-202,text,false,Test failed: text expected to contain /Logout/,620,138,168,168,http://gryffindor.hogwarts.A49.com/php/home,927,0,0
+1730398164395,832,Login Request,200,OK,Thread Group 1-220,text,true,,620,259,168,168,http://gryffindor.hogwarts.A49.com/php/login,832,0,120
+1730398164262,966,Home Request,200,OK,Thread Group 1-125,text,false,Test failed: text expected to contain /Logout/,620,138,168,168,http://gryffindor.hogwarts.A49.com/php/home,965,0,0
+1730398164307,924,Logout Request,200,OK,Thread Group 1-69,text,true,,620,140,168,168,http://gryffindor.hogwarts.A49.com/php/logout,924,0,0
+1730398164302,931,Logout Request,200,OK,Thread Group 1-120,text,true,,620,140,167,167,http://gryffindor.hogwarts.A49.com/php/logout,931,0,0
+1730398164426,734,Logout Request,200,OK,Thread Group 1-91,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,734,0,0
+1730398164999,161,Logout Request,200,OK,Thread Group 1-131,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,161,0,0
+1730398164621,613,Logout Request,200,OK,Thread Group 1-103,text,true,,620,140,167,167,http://gryffindor.hogwarts.A49.com/php/logout,613,0,0
+1730398164307,928,Home Request,200,OK,Thread Group 1-190,text,false,Test failed: text expected to contain /Logout/,620,138,167,167,http://gryffindor.hogwarts.A49.com/php/home,924,0,0
+1730398164265,971,Logout Request,200,OK,Thread Group 1-182,text,true,,620,140,167,167,http://gryffindor.hogwarts.A49.com/php/logout,962,0,0
+1730398164267,969,Logout Request,200,OK,Thread Group 1-168,text,true,,620,140,167,167,http://gryffindor.hogwarts.A49.com/php/logout,959,0,0
+1730398164302,935,Logout Request,200,OK,Thread Group 1-39,text,true,,620,140,167,167,http://gryffindor.hogwarts.A49.com/php/logout,935,0,0
+1730398164965,194,Logout Request,200,OK,Thread Group 1-159,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,194,0,0
+1730398164535,705,Logout Request,200,OK,Thread Group 1-109,text,true,,620,140,159,159,http://gryffindor.hogwarts.A49.com/php/logout,705,0,0
+1730398164620,378,Logout Request,200,OK,Thread Group 1-179,text,true,,620,140,158,158,http://gryffindor.hogwarts.A49.com/php/logout,378,0,0
+1730398164261,984,Home Request,200,OK,Thread Group 1-130,text,false,Test failed: text expected to contain /Logout/,620,138,156,156,http://gryffindor.hogwarts.A49.com/php/home,984,0,0
+1730398164338,908,Logout Request,200,OK,Thread Group 1-82,text,true,,620,140,156,156,http://gryffindor.hogwarts.A49.com/php/logout,908,0,0
+1730398164665,494,Logout Request,200,OK,Thread Group 1-178,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,494,0,0
+1730398165013,145,Home Request,200,OK,Thread Group 1-198,text,false,Test failed: text expected to contain /Logout/,620,138,200,200,http://gryffindor.hogwarts.A49.com/php/home,145,0,0
+1730398165020,138,Logout Request,200,OK,Thread Group 1-143,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,138,0,0
+1730398164411,746,Logout Request,200,OK,Thread Group 1-14,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,746,0,0
+1730398164410,747,Logout Request,200,OK,Thread Group 1-111,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,747,0,0
+1730398165016,140,Logout Request,200,OK,Thread Group 1-126,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,140,0,0
+1730398163968,1188,Login Request,200,OK,Thread Group 1-196,text,true,,620,259,200,200,http://gryffindor.hogwarts.A49.com/php/login,1188,0,1046
+1730398165024,131,Logout Request,200,OK,Thread Group 1-170,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,131,0,0
+1730398164352,801,Logout Request,200,OK,Thread Group 1-64,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,800,0,0
+1730398165012,141,Logout Request,200,OK,Thread Group 1-197,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,140,0,0
+1730398164344,802,Logout Request,200,OK,Thread Group 1-149,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,802,0,0
+1730398164653,335,Home Request,200,OK,Thread Group 1-206,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,335,0,0
+1730398164340,805,Home Request,200,OK,Thread Group 1-151,text,false,Test failed: text expected to contain /Logout/,620,138,200,200,http://gryffindor.hogwarts.A49.com/php/home,805,0,0
+1730398164398,747,Logout Request,200,OK,Thread Group 1-138,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,747,0,0
+1730398164379,762,Logout Request,200,OK,Thread Group 1-148,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,762,0,0
+1730398164404,737,Logout Request,200,OK,Thread Group 1-36,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,737,0,0
+1730398164406,734,Logout Request,200,OK,Thread Group 1-95,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,734,0,0
+1730398164394,746,Logout Request,200,OK,Thread Group 1-175,text,true,,620,140,200,200,http://gryffindor.hogwarts.A49.com/php/logout,746,0,0
+1730398164606,417,Home Request,200,OK,Thread Group 1-192,text,false,Test failed: text expected to contain /Logout/,620,138,200,200,http://gryffindor.hogwarts.A49.com/php/home,417,0,0
+1730398164262,998,Logout Request,200,OK,Thread Group 1-60,text,true,,620,140,149,149,http://gryffindor.hogwarts.A49.com/php/logout,998,0,0
+1730398164300,986,Home Request,200,OK,Thread Group 1-92,text,false,Test failed: text expected to contain /Logout/,620,138,141,141,http://gryffindor.hogwarts.A49.com/php/home,986,0,0
+1730398164353,906,Logout Request,200,OK,Thread Group 1-54,text,true,,620,140,149,149,http://gryffindor.hogwarts.A49.com/php/logout,906,0,0
+1730398164306,950,Home Request,200,OK,Thread Group 1-31,text,false,Test failed: text expected to contain /Logout/,620,138,150,150,http://gryffindor.hogwarts.A49.com/php/home,950,0,0
+1730398164507,737,Logout Request,200,OK,Thread Group 1-66,text,true,,620,140,156,156,http://gryffindor.hogwarts.A49.com/php/logout,737,0,0
+1730398164301,919,Home Request,200,OK,Thread Group 1-145,text,false,Test failed: text expected to contain /Logout/,620,138,176,176,http://gryffindor.hogwarts.A49.com/php/home,919,0,0
+1730398164660,634,Logout Request,200,OK,Thread Group 1-133,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,634,0,0
+1730398164276,1014,Logout Request,200,OK,Thread Group 1-129,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,1014,0,0
+1730398164267,979,Home Request,200,OK,Thread Group 1-132,text,false,Test failed: text expected to contain /Logout/,620,138,156,156,http://gryffindor.hogwarts.A49.com/php/home,979,0,0
+1730398164270,975,Home Request,200,OK,Thread Group 1-136,text,false,Test failed: text expected to contain /Logout/,620,138,156,156,http://gryffindor.hogwarts.A49.com/php/home,975,0,0
+1730398164314,988,Logout Request,200,OK,Thread Group 1-93,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,988,0,0
+1730398165174,140,Logout Request,200,OK,Thread Group 1-34,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,139,0,0
+1730398165197,117,Logout Request,200,OK,Thread Group 1-89,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,117,0,0
+1730398165178,137,Logout Request,200,OK,Thread Group 1-144,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,137,0,0
+1730398165195,121,Logout Request,200,OK,Thread Group 1-78,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,121,0,0
+1730398165173,144,Logout Request,200,OK,Thread Group 1-11,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,144,0,0
+1730398165176,141,Logout Request,200,OK,Thread Group 1-41,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,141,0,0
+1730398164309,1008,Home Request,200,OK,Thread Group 1-122,text,false,Test failed: text expected to contain /Logout/,620,138,141,141,http://gryffindor.hogwarts.A49.com/php/home,1008,0,0
+1730398164233,1011,Login Request,200,OK,Thread Group 1-213,text,true,,620,259,156,156,http://gryffindor.hogwarts.A49.com/php/login,1011,0,336
+1730398165178,140,Logout Request,200,OK,Thread Group 1-135,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,140,0,0
+1730398164945,373,Logout Request,200,OK,Thread Group 1-173,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,373,0,0
+1730398165186,132,Logout Request,200,OK,Thread Group 1-18,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,132,0,0
+1730398165179,140,Logout Request,200,OK,Thread Group 1-137,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,140,0,0
+1730398165187,135,Logout Request,200,OK,Thread Group 1-90,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,135,0,0
+1730398165187,136,Logout Request,200,OK,Thread Group 1-17,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,136,0,0
+1730398165219,104,Logout Request,200,OK,Thread Group 1-6,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,104,0,0
+1730398165217,106,Logout Request,200,OK,Thread Group 1-195,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,106,0,0
+1730398165196,129,Logout Request,200,OK,Thread Group 1-10,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,129,0,0
+1730398165195,130,Logout Request,200,OK,Thread Group 1-47,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,130,0,0
+1730398164979,346,Home Request,200,OK,Thread Group 1-205,text,false,Test failed: text expected to contain /Logout/,620,138,141,141,http://gryffindor.hogwarts.A49.com/php/home,346,0,0
+1730398165218,108,Home Request,200,OK,Thread Group 1-204,text,false,Test failed: text expected to contain /Logout/,620,138,141,141,http://gryffindor.hogwarts.A49.com/php/home,108,0,0
+1730398164941,386,Logout Request,200,OK,Thread Group 1-189,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,386,0,0
+1730398165193,134,Logout Request,200,OK,Thread Group 1-165,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,134,0,0
+1730398164994,334,Logout Request,200,OK,Thread Group 1-164,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,334,0,0
+1730398165188,140,Logout Request,200,OK,Thread Group 1-114,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,140,0,0
+1730398164979,349,Home Request,200,OK,Thread Group 1-211,text,false,Test failed: text expected to contain /Logout/,620,138,141,141,http://gryffindor.hogwarts.A49.com/php/home,349,0,0
+1730398165193,136,Logout Request,200,OK,Thread Group 1-32,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,135,0,0
+1730398164249,1081,Login Request,200,OK,Thread Group 1-200,text,true,,620,259,141,141,http://gryffindor.hogwarts.A49.com/php/login,1081,0,185
+1730398164402,929,Home Request,200,OK,Thread Group 1-163,text,false,Test failed: text expected to contain /Logout/,620,138,141,141,http://gryffindor.hogwarts.A49.com/php/home,929,0,0
+1730398164407,924,Logout Request,200,OK,Thread Group 1-123,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,924,0,0
+1730398164333,999,Login Request,200,OK,Thread Group 1-217,text,true,,620,259,141,141,http://gryffindor.hogwarts.A49.com/php/login,999,0,82
+1730398164160,1173,Login Request,200,OK,Thread Group 1-203,text,true,,620,259,141,141,http://gryffindor.hogwarts.A49.com/php/login,1002,0,513
+1730398164990,347,Logout Request,200,OK,Thread Group 1-96,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,346,0,0
+1730398164461,893,Logout Request,200,OK,Thread Group 1-2,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,893,0,0
+1730398164414,941,Logout Request,200,OK,Thread Group 1-107,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,941,0,0
+1730398164433,937,Logout Request,200,OK,Thread Group 1-84,text,true,,620,140,131,131,http://gryffindor.hogwarts.A49.com/php/logout,937,0,0
+1730398164348,1023,Logout Request,200,OK,Thread Group 1-119,text,true,,620,140,131,131,http://gryffindor.hogwarts.A49.com/php/logout,624,0,0
+1730398164210,736,Home Request,200,OK,Thread Group 1-188,text,false,Test failed: text expected to contain /Logout/,620,138,212,212,http://gryffindor.hogwarts.A49.com/php/home,736,0,0
+1730398164388,984,Logout Request,200,OK,Thread Group 1-147,text,true,,620,140,130,130,http://gryffindor.hogwarts.A49.com/php/logout,984,0,0
+1730398164368,1004,Logout Request,200,OK,Thread Group 1-45,text,true,,620,140,130,130,http://gryffindor.hogwarts.A49.com/php/logout,575,0,0
+1730398164429,731,Home Request,200,OK,Thread Group 1-67,text,false,Test failed: text expected to contain /Logout/,620,138,128,128,http://gryffindor.hogwarts.A49.com/php/home,731,0,0
+1730398164994,384,Logout Request,200,OK,Thread Group 1-155,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,384,0,0
+1730398165249,130,Logout Request,200,OK,Thread Group 1-198,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,130,0,0
+1730398165187,192,Login Request,200,OK,Thread Group 1-229,text,true,,620,259,128,128,http://gryffindor.hogwarts.A49.com/php/login,192,0,65
+1730398165227,152,Logout Request,200,OK,Thread Group 1-202,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,152,0,0
+1730398165229,150,Logout Request,200,OK,Thread Group 1-125,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,150,0,0
+1730398165220,161,Logout Request,200,OK,Thread Group 1-30,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,160,0,0
+1730398165228,153,Home Request,200,OK,Thread Group 1-220,text,false,Test failed: text expected to contain /Logout/,620,138,128,128,http://gryffindor.hogwarts.A49.com/php/home,153,0,0
+1730398165245,138,Logout Request,200,OK,Thread Group 1-130,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,138,0,0
+1730398165235,150,Logout Request,200,OK,Thread Group 1-190,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,150,0,0
+1730398164344,1044,Logout Request,200,OK,Thread Group 1-140,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,598,0,0
+1730398165254,135,Logout Request,200,OK,Thread Group 1-59,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,135,0,0
+1730398165269,124,Logout Request,200,OK,Thread Group 1-206,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,123,0,0
+1730398164337,1058,Home Request,200,OK,Thread Group 1-166,text,false,Test failed: text expected to contain /Logout/,620,138,128,128,http://gryffindor.hogwarts.A49.com/php/home,605,0,0
+1730398164607,812,Home Request,200,OK,Thread Group 1-193,text,false,Test failed: text expected to contain /Logout/,620,138,128,128,http://gryffindor.hogwarts.A49.com/php/home,812,0,0
+1730398165264,155,Home Request,200,OK,Thread Group 1-196,text,false,Test failed: text expected to contain /Logout/,620,138,128,128,http://gryffindor.hogwarts.A49.com/php/home,155,0,0
+1730398165300,120,Logout Request,200,OK,Thread Group 1-136,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,120,0,0
+1730398165297,124,Logout Request,200,OK,Thread Group 1-132,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,124,0,0
+1730398165286,136,Logout Request,200,OK,Thread Group 1-192,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,135,0,0
+1730398165282,147,Logout Request,200,OK,Thread Group 1-151,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,147,0,0
+1730398165286,144,Home Request,200,OK,Thread Group 1-214,text,false,Test failed: text expected to contain /Logout/,620,138,128,128,http://gryffindor.hogwarts.A49.com/php/home,144,0,0
+1730398165284,148,Home Request,200,OK,Thread Group 1-212,text,false,Test failed: text expected to contain /Logout/,620,138,128,128,http://gryffindor.hogwarts.A49.com/php/home,148,0,0
+1730398165289,142,Home Request,200,OK,Thread Group 1-208,text,false,Test failed: text expected to contain /Logout/,620,138,128,128,http://gryffindor.hogwarts.A49.com/php/home,142,0,0
+1730398165264,169,Logout Request,200,OK,Thread Group 1-124,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,169,0,0
+1730398165293,140,Logout Request,200,OK,Thread Group 1-145,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,140,0,0
+1730398165291,144,Logout Request,200,OK,Thread Group 1-31,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,135,0,0
+1730398165264,172,Logout Request,200,OK,Thread Group 1-112,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,172,0,0
+1730398165288,153,Logout Request,200,OK,Thread Group 1-92,text,true,,620,140,128,128,http://gryffindor.hogwarts.A49.com/php/logout,153,0,0
+1730398165024,298,Logout Request,200,OK,Thread Group 1-161,text,true,,620,140,141,141,http://gryffindor.hogwarts.A49.com/php/logout,298,0,0
+1730398165329,125,Logout Request,200,OK,Thread Group 1-201,text,true,,620,140,127,127,http://gryffindor.hogwarts.A49.com/php/logout,125,0,0
+1730398165318,137,Home Request,200,OK,Thread Group 1-213,text,false,Test failed: text expected to contain /Logout/,620,138,127,127,http://gryffindor.hogwarts.A49.com/php/home,137,0,0
+1730398165328,128,Logout Request,200,OK,Thread Group 1-211,text,true,,620,140,127,127,http://gryffindor.hogwarts.A49.com/php/logout,128,0,0
+1730398165326,132,Logout Request,200,OK,Thread Group 1-204,text,true,,620,140,127,127,http://gryffindor.hogwarts.A49.com/php/logout,132,0,0
+1730398165330,128,Logout Request,200,OK,Thread Group 1-115,text,true,,620,140,127,127,http://gryffindor.hogwarts.A49.com/php/logout,128,0,0
+1730398165332,126,Home Request,200,OK,Thread Group 1-217,text,false,Test failed: text expected to contain /Logout/,620,138,127,127,http://gryffindor.hogwarts.A49.com/php/home,126,0,0
+1730398165326,131,Logout Request,200,OK,Thread Group 1-205,text,true,,620,140,127,127,http://gryffindor.hogwarts.A49.com/php/logout,131,0,0
+1730398165332,126,Logout Request,200,OK,Thread Group 1-163,text,true,,620,140,127,127,http://gryffindor.hogwarts.A49.com/php/logout,126,0,0
+1730398165330,127,Home Request,200,OK,Thread Group 1-200,text,false,Test failed: text expected to contain /Logout/,620,138,127,127,http://gryffindor.hogwarts.A49.com/php/home,127,0,0
+1730398164273,1188,Login Request,200,OK,Thread Group 1-215,text,true,,620,259,127,127,http://gryffindor.hogwarts.A49.com/php/login,1188,0,1043
+1730398164266,1105,Home Request,200,OK,Thread Group 1-77,text,false,Test failed: text expected to contain /Logout/,620,138,130,130,http://gryffindor.hogwarts.A49.com/php/home,681,0,0
+1730398165267,205,Login Request,200,OK,Thread Group 1-218,text,true,,620,259,126,126,http://gryffindor.hogwarts.A49.com/php/login,205,0,63
+1730398165204,268,Home Request,200,OK,Thread Group 1-224,text,false,Test failed: text expected to contain /Logout/,620,138,126,126,http://gryffindor.hogwarts.A49.com/php/home,268,0,0
+1730398165284,190,Login Request,200,OK,Thread Group 1-225,text,true,,620,259,126,126,http://gryffindor.hogwarts.A49.com/php/login,190,0,39
+1730398165396,111,Logout Request,200,OK,Thread Group 1-160,text,true,,620,140,111,111,http://gryffindor.hogwarts.A49.com/php/logout,111,0,0
+1730398165381,126,Logout Request,200,OK,Thread Group 1-220,text,true,,620,140,111,111,http://gryffindor.hogwarts.A49.com/php/logout,125,0,0
+1730398165368,139,Home Request,200,OK,Thread Group 1-210,text,false,Test failed: text expected to contain /Logout/,620,138,111,111,http://gryffindor.hogwarts.A49.com/php/home,139,0,0
+1730398165370,138,Home Request,200,OK,Thread Group 1-219,text,false,Test failed: text expected to contain /Logout/,620,138,110,110,http://gryffindor.hogwarts.A49.com/php/home,138,0,0
+1730398165396,112,Logout Request,200,OK,Thread Group 1-162,text,true,,620,140,109,109,http://gryffindor.hogwarts.A49.com/php/logout,112,0,0
+1730398165372,137,Logout Request,200,OK,Thread Group 1-188,text,true,,620,140,108,108,http://gryffindor.hogwarts.A49.com/php/logout,137,0,0
+1730398164943,567,Home Request,200,OK,Thread Group 1-223,text,false,Test failed: text expected to contain /Logout/,620,138,108,108,http://gryffindor.hogwarts.A49.com/php/home,567,0,0
+1730398165333,174,Home Request,200,OK,Thread Group 1-203,text,false,Test failed: text expected to contain /Logout/,620,138,111,111,http://gryffindor.hogwarts.A49.com/php/home,174,0,0
+1730398164943,573,Home Request,200,OK,Thread Group 1-222,text,false,Test failed: text expected to contain /Logout/,620,138,106,106,http://gryffindor.hogwarts.A49.com/php/home,573,0,0
+1730398165376,142,Logout Request,200,OK,Thread Group 1-67,text,true,,620,140,104,104,http://gryffindor.hogwarts.A49.com/php/logout,142,0,0
+1730398165380,139,Home Request,200,OK,Thread Group 1-229,text,false,Test failed: text expected to contain /Logout/,620,138,103,103,http://gryffindor.hogwarts.A49.com/php/home,139,0,0
+1730398165396,130,Logout Request,200,OK,Thread Group 1-166,text,true,,620,140,104,104,http://gryffindor.hogwarts.A49.com/php/logout,130,0,0
+1730398164317,1219,Login Request,200,OK,Thread Group 1-216,text,true,,620,259,100,100,http://gryffindor.hogwarts.A49.com/php/login,1218,0,97
+1730398164412,1140,Logout Request,200,OK,Thread Group 1-110,text,true,,620,140,88,88,http://gryffindor.hogwarts.A49.com/php/logout,1140,0,0
+1730398164414,1140,Logout Request,200,OK,Thread Group 1-16,text,true,,620,140,86,86,http://gryffindor.hogwarts.A49.com/php/logout,1140,0,0
+1730398165420,134,Logout Request,200,OK,Thread Group 1-196,text,true,,620,140,86,86,http://gryffindor.hogwarts.A49.com/php/logout,134,0,0
+1730398165420,135,Logout Request,200,OK,Thread Group 1-193,text,true,,620,140,85,85,http://gryffindor.hogwarts.A49.com/php/logout,135,0,0
+1730398165431,124,Logout Request,200,OK,Thread Group 1-214,text,true,,620,140,85,85,http://gryffindor.hogwarts.A49.com/php/logout,124,0,0
+1730398164413,1143,Logout Request,200,OK,Thread Group 1-62,text,true,,620,140,83,83,http://gryffindor.hogwarts.A49.com/php/logout,1143,0,0
+1730398165432,125,Logout Request,200,OK,Thread Group 1-212,text,true,,620,140,83,83,http://gryffindor.hogwarts.A49.com/php/logout,125,0,0
+1730398165434,124,Logout Request,200,OK,Thread Group 1-208,text,true,,620,140,80,80,http://gryffindor.hogwarts.A49.com/php/logout,124,0,0
+1730398164940,622,Logout Request,200,OK,Thread Group 1-108,text,true,,620,140,70,70,http://gryffindor.hogwarts.A49.com/php/logout,622,0,0
+1730398164903,659,Logout Request,200,OK,Thread Group 1-44,text,true,,620,140,69,69,http://gryffindor.hogwarts.A49.com/php/logout,659,0,0
+1730398164905,660,Logout Request,200,OK,Thread Group 1-3,text,true,,620,140,68,68,http://gryffindor.hogwarts.A49.com/php/logout,660,0,0
+1730398165455,112,Logout Request,200,OK,Thread Group 1-213,text,true,,620,140,67,67,http://gryffindor.hogwarts.A49.com/php/logout,112,0,0
+1730398165459,114,Logout Request,200,OK,Thread Group 1-200,text,true,,620,140,57,57,http://gryffindor.hogwarts.A49.com/php/logout,114,0,0
+1730398164939,635,Logout Request,200,OK,Thread Group 1-154,text,true,,620,140,56,56,http://gryffindor.hogwarts.A49.com/php/logout,635,0,0
+1730398165461,114,Home Request,200,OK,Thread Group 1-215,text,false,Test failed: text expected to contain /Logout/,620,138,55,55,http://gryffindor.hogwarts.A49.com/php/home,114,0,0
+1730398165459,117,Logout Request,200,OK,Thread Group 1-217,text,true,,620,140,55,55,http://gryffindor.hogwarts.A49.com/php/logout,117,0,0
+1730398165370,228,Logout Request,200,OK,Thread Group 1-127,text,true,,620,140,48,48,http://gryffindor.hogwarts.A49.com/php/logout,228,0,0
+1730398164933,702,Login Request,200,OK,Thread Group 1-221,text,true,,620,259,40,40,http://gryffindor.hogwarts.A49.com/php/login,702,0,538
+1730398165466,177,Logout Request,200,OK,Thread Group 1-77,text,true,,620,140,41,41,http://gryffindor.hogwarts.A49.com/php/logout,177,0,0
+1730398165475,171,Home Request,200,OK,Thread Group 1-225,text,false,Test failed: text expected to contain /Logout/,620,138,40,40,http://gryffindor.hogwarts.A49.com/php/home,171,0,0
+1730398165473,179,Logout Request,200,OK,Thread Group 1-224,text,true,,620,140,40,40,http://gryffindor.hogwarts.A49.com/php/logout,178,0,0
+1730398165470,185,Logout Request,200,OK,Thread Group 1-122,text,true,,620,140,39,39,http://gryffindor.hogwarts.A49.com/php/logout,185,0,0
+1730398165473,192,Home Request,200,OK,Thread Group 1-218,text,false,Test failed: text expected to contain /Logout/,620,138,38,38,http://gryffindor.hogwarts.A49.com/php/home,191,0,0
+1730398165511,157,Logout Request,200,OK,Thread Group 1-223,text,true,,620,140,38,38,http://gryffindor.hogwarts.A49.com/php/logout,156,0,0
+1730398165517,170,Logout Request,200,OK,Thread Group 1-222,text,true,,620,140,38,38,http://gryffindor.hogwarts.A49.com/php/logout,170,0,0
+1730398165479,208,Login Request,200,OK,Thread Group 1-228,text,true,,620,259,38,38,http://gryffindor.hogwarts.A49.com/php/login,208,0,41
+1730398165485,206,Login Request,200,OK,Thread Group 1-237,text,true,,620,259,38,38,http://gryffindor.hogwarts.A49.com/php/login,206,0,29
+1730398165519,173,Logout Request,200,OK,Thread Group 1-229,text,true,,620,140,38,38,http://gryffindor.hogwarts.A49.com/php/logout,173,0,0
+1730398165546,164,Login Request,200,OK,Thread Group 1-241,text,true,,620,259,38,38,http://gryffindor.hogwarts.A49.com/php/login,164,0,70
+1730398164601,1111,Logout Request,200,OK,Thread Group 1-26,text,true,,620,140,38,38,http://gryffindor.hogwarts.A49.com/php/logout,1111,0,0
+1730398165523,189,Login Request,200,OK,Thread Group 1-234,text,true,,620,259,38,38,http://gryffindor.hogwarts.A49.com/php/login,189,0,49
+1730398164213,1526,Login Request,200,OK,Thread Group 1-207,text,true,,620,259,39,39,http://gryffindor.hogwarts.A49.com/php/login,1526,0,333
+1730398164562,1150,Logout Request,200,OK,Thread Group 1-157,text,true,,620,140,38,38,http://gryffindor.hogwarts.A49.com/php/logout,1150,0,0
+1730398164225,1519,Login Request,200,OK,Thread Group 1-209,text,true,,620,259,39,39,http://gryffindor.hogwarts.A49.com/php/login,1518,0,345
+1730398165515,231,Login Request,200,OK,Thread Group 1-231,text,true,,620,259,39,39,http://gryffindor.hogwarts.A49.com/php/login,230,0,57
+1730398164489,1261,Logout Request,200,OK,Thread Group 1-75,text,true,,620,140,39,39,http://gryffindor.hogwarts.A49.com/php/logout,1221,0,0
+1730398165517,193,Login Request,200,OK,Thread Group 1-227,text,true,,620,259,38,38,http://gryffindor.hogwarts.A49.com/php/login,192,0,59
+1730398165519,231,Login Request,200,OK,Thread Group 1-238,text,true,,620,259,39,39,http://gryffindor.hogwarts.A49.com/php/login,231,0,56
+1730398165576,175,Logout Request,200,OK,Thread Group 1-215,text,true,,620,140,39,39,http://gryffindor.hogwarts.A49.com/php/logout,175,0,0
+1730398165636,116,Home Request,200,OK,Thread Group 1-221,text,false,Test failed: text expected to contain /Logout/,620,138,39,39,http://gryffindor.hogwarts.A49.com/php/home,116,0,0
+1730398165647,106,Logout Request,200,OK,Thread Group 1-225,text,true,,620,140,39,39,http://gryffindor.hogwarts.A49.com/php/logout,106,0,0
+1730398164600,1156,Logout Request,200,OK,Thread Group 1-97,text,true,,620,140,39,39,http://gryffindor.hogwarts.A49.com/php/logout,1156,0,0
+1730398164599,1157,Logout Request,200,OK,Thread Group 1-177,text,true,,620,140,39,39,http://gryffindor.hogwarts.A49.com/php/logout,1157,0,0
+1730398164602,1155,Logout Request,200,OK,Thread Group 1-105,text,true,,620,140,39,39,http://gryffindor.hogwarts.A49.com/php/logout,1155,0,0
+1730398164604,1154,Logout Request,200,OK,Thread Group 1-51,text,true,,620,140,39,39,http://gryffindor.hogwarts.A49.com/php/logout,1154,0,0
+1730398165537,224,Home Request,200,OK,Thread Group 1-216,text,false,Test failed: text expected to contain /Logout/,620,138,39,39,http://gryffindor.hogwarts.A49.com/php/home,224,0,0
+1730398165479,284,Login Request,200,OK,Thread Group 1-232,text,true,,620,259,39,39,http://gryffindor.hogwarts.A49.com/php/login,211,0,35
+1730398165508,256,Logout Request,200,OK,Thread Group 1-219,text,true,,620,140,39,39,http://gryffindor.hogwarts.A49.com/php/logout,256,0,0
+1730398165513,176,Logout Request,200,OK,Thread Group 1-203,text,true,,620,140,39,39,http://gryffindor.hogwarts.A49.com/php/logout,176,0,0
+1730398165606,163,Login Request,200,OK,Thread Group 1-243,text,true,,620,259,39,39,http://gryffindor.hogwarts.A49.com/php/login,163,0,42
+1730398165665,106,Logout Request,200,OK,Thread Group 1-218,text,true,,620,140,39,39,http://gryffindor.hogwarts.A49.com/php/logout,106,0,0
+1730398165636,136,Login Request,200,OK,Thread Group 1-245,text,true,,620,259,39,39,http://gryffindor.hogwarts.A49.com/php/login,136,0,30
+1730398165593,188,Login Request,200,OK,Thread Group 1-236,text,true,,620,259,39,39,http://gryffindor.hogwarts.A49.com/php/login,188,0,55
+1730398165595,188,Login Request,200,OK,Thread Group 1-239,text,true,,620,259,39,39,http://gryffindor.hogwarts.A49.com/php/login,188,0,71
+1730398165588,196,Login Request,200,OK,Thread Group 1-226,text,true,,620,259,39,39,http://gryffindor.hogwarts.A49.com/php/login,196,0,78
+1730398165475,311,Login Request,200,OK,Thread Group 1-230,text,true,,620,259,39,39,http://gryffindor.hogwarts.A49.com/php/login,311,0,49
+1730398165508,278,Logout Request,200,OK,Thread Group 1-210,text,true,,620,140,39,39,http://gryffindor.hogwarts.A49.com/php/logout,278,0,0
+1730398165490,298,Login Request,200,OK,Thread Group 1-233,text,true,,620,259,37,37,http://gryffindor.hogwarts.A49.com/php/login,298,0,23
+1730398165688,117,Home Request,200,OK,Thread Group 1-228,text,false,Test failed: text expected to contain /Logout/,620,138,32,32,http://gryffindor.hogwarts.A49.com/php/home,117,0,0
+1730398165711,117,Home Request,200,OK,Thread Group 1-241,text,false,Test failed: text expected to contain /Logout/,620,138,33,33,http://gryffindor.hogwarts.A49.com/php/home,117,0,0
+1730398165740,89,Home Request,200,OK,Thread Group 1-207,text,false,Test failed: text expected to contain /Logout/,620,138,33,33,http://gryffindor.hogwarts.A49.com/php/home,89,0,0
+1730398165617,216,Login Request,200,OK,Thread Group 1-244,text,true,,620,259,33,33,http://gryffindor.hogwarts.A49.com/php/login,216,0,77
+1730398165692,144,Home Request,200,OK,Thread Group 1-237,text,false,Test failed: text expected to contain /Logout/,620,138,33,33,http://gryffindor.hogwarts.A49.com/php/home,144,0,0
+1730398165750,162,Home Request,200,OK,Thread Group 1-227,text,false,Test failed: text expected to contain /Logout/,620,138,33,33,http://gryffindor.hogwarts.A49.com/php/home,162,0,0
+1730398165737,180,Home Request,200,OK,Thread Group 1-234,text,false,Test failed: text expected to contain /Logout/,620,138,33,33,http://gryffindor.hogwarts.A49.com/php/home,180,0,0
+1730398165751,169,Home Request,200,OK,Thread Group 1-238,text,false,Test failed: text expected to contain /Logout/,620,138,33,33,http://gryffindor.hogwarts.A49.com/php/home,169,0,0
+1730398165753,167,Logout Request,200,OK,Thread Group 1-221,text,true,,620,140,33,33,http://gryffindor.hogwarts.A49.com/php/logout,167,0,0
+1730398165763,157,Home Request,200,OK,Thread Group 1-232,text,false,Test failed: text expected to contain /Logout/,620,138,33,33,http://gryffindor.hogwarts.A49.com/php/home,157,0,0
+1730398165746,175,Home Request,200,OK,Thread Group 1-231,text,false,Test failed: text expected to contain /Logout/,620,138,33,33,http://gryffindor.hogwarts.A49.com/php/home,175,0,0
+1730398165762,160,Logout Request,200,OK,Thread Group 1-216,text,true,,620,140,32,32,http://gryffindor.hogwarts.A49.com/php/logout,160,0,0
+1730398165770,153,Home Request,200,OK,Thread Group 1-243,text,false,Test failed: text expected to contain /Logout/,620,138,31,31,http://gryffindor.hogwarts.A49.com/php/home,153,0,0
+1730398165786,137,Home Request,200,OK,Thread Group 1-230,text,false,Test failed: text expected to contain /Logout/,620,138,31,31,http://gryffindor.hogwarts.A49.com/php/home,137,0,0
+1730398165637,286,Login Request,200,OK,Thread Group 1-251,text,true,,620,259,31,31,http://gryffindor.hogwarts.A49.com/php/login,286,0,115
+1730398165650,274,Login Request,200,OK,Thread Group 1-246,text,true,,620,259,31,31,http://gryffindor.hogwarts.A49.com/php/login,274,0,102
+1730398165745,179,Home Request,200,OK,Thread Group 1-209,text,false,Test failed: text expected to contain /Logout/,620,138,31,31,http://gryffindor.hogwarts.A49.com/php/home,179,0,0
+1730398165788,137,Home Request,200,OK,Thread Group 1-233,text,false,Test failed: text expected to contain /Logout/,620,138,31,31,http://gryffindor.hogwarts.A49.com/php/home,137,0,0
+1730398165671,251,Login Request,200,OK,Thread Group 1-247,text,true,,620,259,31,31,http://gryffindor.hogwarts.A49.com/php/login,251,0,34
+1730398165806,123,Logout Request,200,OK,Thread Group 1-228,text,true,,620,140,31,31,http://gryffindor.hogwarts.A49.com/php/logout,123,0,0
+1730398165784,147,Home Request,200,OK,Thread Group 1-226,text,false,Test failed: text expected to contain /Logout/,620,138,31,31,http://gryffindor.hogwarts.A49.com/php/home,147,0,0
+1730398165782,151,Home Request,200,OK,Thread Group 1-236,text,false,Test failed: text expected to contain /Logout/,620,138,31,31,http://gryffindor.hogwarts.A49.com/php/home,151,0,0
+1730398165772,168,Home Request,200,OK,Thread Group 1-245,text,false,Test failed: text expected to contain /Logout/,620,138,30,30,http://gryffindor.hogwarts.A49.com/php/home,167,0,0
+1730398165750,191,Login Request,200,OK,Thread Group 1-249,text,true,,620,259,30,30,http://gryffindor.hogwarts.A49.com/php/login,191,0,54
+1730398165790,153,Home Request,200,OK,Thread Group 1-239,text,false,Test failed: text expected to contain /Logout/,620,138,30,30,http://gryffindor.hogwarts.A49.com/php/home,153,0,0
+1730398165837,116,Logout Request,200,OK,Thread Group 1-237,text,true,,620,140,30,30,http://gryffindor.hogwarts.A49.com/php/logout,116,0,0
+1730398165834,120,Home Request,200,OK,Thread Group 1-244,text,false,Test failed: text expected to contain /Logout/,620,138,30,30,http://gryffindor.hogwarts.A49.com/php/home,119,0,0
+1730398165804,150,Login Request,200,OK,Thread Group 1-250,text,true,,620,259,30,30,http://gryffindor.hogwarts.A49.com/php/login,150,0,60
+1730398165829,124,Logout Request,200,OK,Thread Group 1-241,text,true,,620,140,30,30,http://gryffindor.hogwarts.A49.com/php/logout,124,0,0
+1730398165790,165,Login Request,200,OK,Thread Group 1-242,text,true,,620,259,29,29,http://gryffindor.hogwarts.A49.com/php/login,165,0,41
+1730398165805,150,Login Request,200,OK,Thread Group 1-248,text,true,,620,259,29,29,http://gryffindor.hogwarts.A49.com/php/login,150,0,59
+1730398165829,131,Logout Request,200,OK,Thread Group 1-207,text,true,,620,140,28,28,http://gryffindor.hogwarts.A49.com/php/logout,130,0,0
+1730398165796,175,Login Request,200,OK,Thread Group 1-255,text,true,,620,259,27,27,http://gryffindor.hogwarts.A49.com/php/login,175,0,32
+1730398165791,180,Login Request,200,OK,Thread Group 1-235,text,true,,620,259,27,27,http://gryffindor.hogwarts.A49.com/php/login,180,0,29
+1730398165796,179,Login Request,200,OK,Thread Group 1-254,text,true,,620,259,27,27,http://gryffindor.hogwarts.A49.com/php/login,179,0,32
+1730398165786,211,Login Request,200,OK,Thread Group 1-240,text,true,,620,259,27,27,http://gryffindor.hogwarts.A49.com/php/login,209,0,34
+1730398165922,113,Logout Request,200,OK,Thread Group 1-232,text,true,,620,140,28,28,http://gryffindor.hogwarts.A49.com/php/logout,113,0,0
+1730398165928,107,Home Request,200,OK,Thread Group 1-247,text,false,Test failed: text expected to contain /Logout/,620,138,28,28,http://gryffindor.hogwarts.A49.com/php/home,106,0,0
+1730398165924,111,Logout Request,200,OK,Thread Group 1-230,text,true,,620,140,28,28,http://gryffindor.hogwarts.A49.com/php/logout,111,0,0
+1730398165924,122,Logout Request,200,OK,Thread Group 1-243,text,true,,620,140,26,26,http://gryffindor.hogwarts.A49.com/php/logout,122,0,0
+1730398165935,112,Logout Request,200,OK,Thread Group 1-236,text,true,,620,140,26,26,http://gryffindor.hogwarts.A49.com/php/logout,112,0,0
+1730398165926,122,Logout Request,200,OK,Thread Group 1-209,text,true,,620,140,26,26,http://gryffindor.hogwarts.A49.com/php/logout,122,0,0
+1730398165933,115,Logout Request,200,OK,Thread Group 1-226,text,true,,620,140,26,26,http://gryffindor.hogwarts.A49.com/php/logout,115,0,0
+1730398165957,92,Home Request,200,OK,Thread Group 1-248,text,false,Test failed: text expected to contain /Logout/,620,138,24,24,http://gryffindor.hogwarts.A49.com/php/home,92,0,0
+1730398165925,125,Home Request,200,OK,Thread Group 1-251,text,false,Test failed: text expected to contain /Logout/,620,138,24,24,http://gryffindor.hogwarts.A49.com/php/home,125,0,0
+1730398165925,124,Home Request,200,OK,Thread Group 1-246,text,false,Test failed: text expected to contain /Logout/,620,138,24,24,http://gryffindor.hogwarts.A49.com/php/home,124,0,0
+1730398165927,133,Logout Request,200,OK,Thread Group 1-233,text,true,,620,140,22,22,http://gryffindor.hogwarts.A49.com/php/logout,131,0,0
+1730398165841,222,Login Request,200,OK,Thread Group 1-252,text,true,,620,259,21,21,http://gryffindor.hogwarts.A49.com/php/login,222,0,104
+1730398165914,150,Logout Request,200,OK,Thread Group 1-227,text,true,,620,140,21,21,http://gryffindor.hogwarts.A49.com/php/logout,150,0,0
+1730398165956,110,Logout Request,200,OK,Thread Group 1-244,text,true,,620,140,21,21,http://gryffindor.hogwarts.A49.com/php/logout,110,0,0
+1730398165920,146,Logout Request,200,OK,Thread Group 1-234,text,true,,620,140,21,21,http://gryffindor.hogwarts.A49.com/php/logout,146,0,0
+1730398165962,104,Logout Request,200,OK,Thread Group 1-239,text,true,,620,140,21,21,http://gryffindor.hogwarts.A49.com/php/logout,104,0,0
+1730398165943,124,Home Request,200,OK,Thread Group 1-249,text,false,Test failed: text expected to contain /Logout/,620,138,20,20,http://gryffindor.hogwarts.A49.com/php/home,124,0,0
+1730398165956,114,Home Request,200,OK,Thread Group 1-250,text,false,Test failed: text expected to contain /Logout/,620,138,19,19,http://gryffindor.hogwarts.A49.com/php/home,114,0,0
+1730398165945,125,Logout Request,200,OK,Thread Group 1-245,text,true,,620,140,19,19,http://gryffindor.hogwarts.A49.com/php/logout,125,0,0
+1730398165815,256,Login Request,200,OK,Thread Group 1-253,text,true,,620,259,17,17,http://gryffindor.hogwarts.A49.com/php/login,256,0,124
+1730398165922,152,Logout Request,200,OK,Thread Group 1-231,text,true,,620,140,17,17,http://gryffindor.hogwarts.A49.com/php/logout,152,0,0
+1730398165922,155,Logout Request,200,OK,Thread Group 1-238,text,true,,620,140,15,15,http://gryffindor.hogwarts.A49.com/php/logout,155,0,0
+1730398165986,106,Home Request,200,OK,Thread Group 1-255,text,false,Test failed: text expected to contain /Logout/,620,138,14,14,http://gryffindor.hogwarts.A49.com/php/home,106,0,0
+1730398165980,115,Home Request,200,OK,Thread Group 1-254,text,false,Test failed: text expected to contain /Logout/,620,138,14,14,http://gryffindor.hogwarts.A49.com/php/home,115,0,0
+1730398165957,139,Home Request,200,OK,Thread Group 1-242,text,false,Test failed: text expected to contain /Logout/,620,138,14,14,http://gryffindor.hogwarts.A49.com/php/home,139,0,0
+1730398165973,125,Home Request,200,OK,Thread Group 1-235,text,false,Test failed: text expected to contain /Logout/,620,138,14,14,http://gryffindor.hogwarts.A49.com/php/home,125,0,0
+1730398165999,132,Home Request,200,OK,Thread Group 1-240,text,false,Test failed: text expected to contain /Logout/,620,138,17,17,http://gryffindor.hogwarts.A49.com/php/home,132,0,0
+1730398166036,115,Logout Request,200,OK,Thread Group 1-247,text,true,,620,140,19,19,http://gryffindor.hogwarts.A49.com/php/logout,115,0,0
+1730398166058,104,Logout Request,200,OK,Thread Group 1-248,text,true,,620,140,18,18,http://gryffindor.hogwarts.A49.com/php/logout,104,0,0
+1730398166058,105,Logout Request,200,OK,Thread Group 1-251,text,true,,620,140,17,17,http://gryffindor.hogwarts.A49.com/php/logout,105,0,0
+1730398166070,95,Logout Request,200,OK,Thread Group 1-250,text,true,,620,140,16,16,http://gryffindor.hogwarts.A49.com/php/logout,95,0,0
+1730398166069,99,Logout Request,200,OK,Thread Group 1-249,text,true,,620,140,15,15,http://gryffindor.hogwarts.A49.com/php/logout,99,0,0
+1730398166059,110,Logout Request,200,OK,Thread Group 1-246,text,true,,620,140,14,14,http://gryffindor.hogwarts.A49.com/php/logout,110,0,0
+1730398166028,152,Login Request,200,OK,Thread Group 1-256,text,true,,620,259,13,13,http://gryffindor.hogwarts.A49.com/php/login,152,0,48
+1730398166065,116,Home Request,200,OK,Thread Group 1-252,text,false,Test failed: text expected to contain /Logout/,620,138,13,13,http://gryffindor.hogwarts.A49.com/php/home,116,0,0
+1730398166100,82,Logout Request,200,OK,Thread Group 1-235,text,true,,620,140,14,14,http://gryffindor.hogwarts.A49.com/php/logout,82,0,0
+1730398166094,89,Logout Request,200,OK,Thread Group 1-255,text,true,,620,140,15,15,http://gryffindor.hogwarts.A49.com/php/logout,89,0,0
+1730398166096,88,Logout Request,200,OK,Thread Group 1-254,text,true,,620,140,15,15,http://gryffindor.hogwarts.A49.com/php/logout,88,0,0
+1730398166097,87,Logout Request,200,OK,Thread Group 1-242,text,true,,620,140,15,15,http://gryffindor.hogwarts.A49.com/php/logout,87,0,0
+1730398166073,119,Home Request,200,OK,Thread Group 1-253,text,false,Test failed: text expected to contain /Logout/,620,138,12,12,http://gryffindor.hogwarts.A49.com/php/home,119,0,0
+1730398166132,75,Logout Request,200,OK,Thread Group 1-240,text,true,,620,140,13,13,http://gryffindor.hogwarts.A49.com/php/logout,74,0,0
+1730398166144,113,Login Request,200,OK,Thread Group 1-259,text,true,,620,259,19,19,http://gryffindor.hogwarts.A49.com/php/login,113,0,17
+1730398166126,165,Login Request,200,OK,Thread Group 1-260,text,true,,620,259,19,19,http://gryffindor.hogwarts.A49.com/php/login,165,0,36
+1730398166139,153,Login Request,200,OK,Thread Group 1-258,text,true,,620,259,19,19,http://gryffindor.hogwarts.A49.com/php/login,153,0,25
+1730398166115,179,Login Request,200,OK,Thread Group 1-257,text,true,,620,259,19,19,http://gryffindor.hogwarts.A49.com/php/login,179,0,52
+1730398166145,148,Login Request,200,OK,Thread Group 1-261,text,true,,620,259,19,19,http://gryffindor.hogwarts.A49.com/php/login,148,0,34
+1730398166192,107,Logout Request,200,OK,Thread Group 1-253,text,true,,620,140,19,19,http://gryffindor.hogwarts.A49.com/php/logout,107,0,0
+1730398166209,92,Logout Request,200,OK,Thread Group 1-252,text,true,,620,140,18,18,http://gryffindor.hogwarts.A49.com/php/logout,91,0,0
+1730398166210,95,Home Request,200,OK,Thread Group 1-256,text,false,Test failed: text expected to contain /Logout/,620,138,17,17,http://gryffindor.hogwarts.A49.com/php/home,95,0,0
+1730398166204,103,Login Request,200,OK,Thread Group 1-267,text,true,,620,259,17,17,http://gryffindor.hogwarts.A49.com/php/login,103,0,43
+1730398166214,121,Login Request,200,OK,Thread Group 1-265,text,true,,620,259,20,20,http://gryffindor.hogwarts.A49.com/php/login,120,0,45
+1730398166184,172,Login Request,200,OK,Thread Group 1-263,text,true,,620,259,22,22,http://gryffindor.hogwarts.A49.com/php/login,172,0,78
+1730398166246,111,Login Request,200,OK,Thread Group 1-272,text,true,,620,259,22,22,http://gryffindor.hogwarts.A49.com/php/login,111,0,25
+1730398166215,143,Login Request,200,OK,Thread Group 1-268,text,true,,620,259,22,22,http://gryffindor.hogwarts.A49.com/php/login,143,0,56
+1730398166230,129,Login Request,200,OK,Thread Group 1-271,text,true,,620,259,22,22,http://gryffindor.hogwarts.A49.com/php/login,129,0,41
+1730398166184,175,Login Request,200,OK,Thread Group 1-264,text,true,,620,259,22,22,http://gryffindor.hogwarts.A49.com/php/login,175,0,94
+1730398166233,125,Login Request,200,OK,Thread Group 1-266,text,true,,620,259,22,22,http://gryffindor.hogwarts.A49.com/php/login,125,0,39
+1730398166221,144,Login Request,200,OK,Thread Group 1-262,text,true,,620,259,22,22,http://gryffindor.hogwarts.A49.com/php/login,144,0,57
+1730398166225,142,Login Request,200,OK,Thread Group 1-270,text,true,,620,259,22,22,http://gryffindor.hogwarts.A49.com/php/login,142,0,37
+1730398166241,126,Login Request,200,OK,Thread Group 1-269,text,true,,620,259,22,22,http://gryffindor.hogwarts.A49.com/php/login,126,0,42
+1730398166258,98,Home Request,200,OK,Thread Group 1-259,text,false,Test failed: text expected to contain /Logout/,620,138,22,22,http://gryffindor.hogwarts.A49.com/php/home,98,0,0
+1730398166296,77,Home Request,200,OK,Thread Group 1-261,text,false,Test failed: text expected to contain /Logout/,620,138,22,22,http://gryffindor.hogwarts.A49.com/php/home,77,0,0
+1730398166295,70,Home Request,200,OK,Thread Group 1-260,text,false,Test failed: text expected to contain /Logout/,620,138,22,22,http://gryffindor.hogwarts.A49.com/php/home,70,0,0
+1730398166294,132,Home Request,200,OK,Thread Group 1-258,text,false,Test failed: text expected to contain /Logout/,620,138,25,25,http://gryffindor.hogwarts.A49.com/php/home,132,0,0
+1730398166298,118,Home Request,200,OK,Thread Group 1-257,text,false,Test failed: text expected to contain /Logout/,620,138,23,23,http://gryffindor.hogwarts.A49.com/php/home,106,0,0
+1730398166307,105,Home Request,200,OK,Thread Group 1-267,text,false,Test failed: text expected to contain /Logout/,620,138,23,23,http://gryffindor.hogwarts.A49.com/php/home,105,0,0
+1730398166306,96,Logout Request,200,OK,Thread Group 1-256,text,true,,620,140,23,23,http://gryffindor.hogwarts.A49.com/php/logout,96,0,0
+1730398166320,145,Login Request,200,OK,Thread Group 1-274,text,true,,620,259,27,27,http://gryffindor.hogwarts.A49.com/php/login,145,0,37
+1730398166335,130,Home Request,200,OK,Thread Group 1-265,text,false,Test failed: text expected to contain /Logout/,620,138,27,27,http://gryffindor.hogwarts.A49.com/php/home,130,0,0
+1730398166357,109,Home Request,200,OK,Thread Group 1-263,text,false,Test failed: text expected to contain /Logout/,620,138,27,27,http://gryffindor.hogwarts.A49.com/php/home,109,0,0
+1730398166359,113,Home Request,200,OK,Thread Group 1-268,text,false,Test failed: text expected to contain /Logout/,620,138,27,27,http://gryffindor.hogwarts.A49.com/php/home,113,0,0
+1730398166310,164,Login Request,200,OK,Thread Group 1-273,text,true,,620,259,27,27,http://gryffindor.hogwarts.A49.com/php/login,164,0,47
+1730398166358,128,Home Request,200,OK,Thread Group 1-272,text,false,Test failed: text expected to contain /Logout/,620,138,29,29,http://gryffindor.hogwarts.A49.com/php/home,128,0,0
+1730398166310,198,Login Request,200,OK,Thread Group 1-275,text,true,,620,259,32,32,http://gryffindor.hogwarts.A49.com/php/login,198,0,49
+1730398166342,193,Login Request,200,OK,Thread Group 1-277,text,true,,620,259,34,34,http://gryffindor.hogwarts.A49.com/php/login,193,0,22
+1730398166338,198,Login Request,200,OK,Thread Group 1-276,text,true,,620,259,34,34,http://gryffindor.hogwarts.A49.com/php/login,197,0,26
+1730398166360,175,Home Request,200,OK,Thread Group 1-266,text,false,Test failed: text expected to contain /Logout/,620,138,34,34,http://gryffindor.hogwarts.A49.com/php/home,175,0,0
+1730398166359,181,Home Request,200,OK,Thread Group 1-271,text,false,Test failed: text expected to contain /Logout/,620,138,34,34,http://gryffindor.hogwarts.A49.com/php/home,181,0,0
+1730398166369,181,Logout Request,200,OK,Thread Group 1-259,text,true,,620,140,35,35,http://gryffindor.hogwarts.A49.com/php/logout,181,0,0
+1730398166372,179,Home Request,200,OK,Thread Group 1-270,text,false,Test failed: text expected to contain /Logout/,620,138,34,34,http://gryffindor.hogwarts.A49.com/php/home,179,0,0
+1730398166374,179,Home Request,200,OK,Thread Group 1-264,text,false,Test failed: text expected to contain /Logout/,620,138,34,34,http://gryffindor.hogwarts.A49.com/php/home,179,0,0
+1730398166373,181,Home Request,200,OK,Thread Group 1-262,text,false,Test failed: text expected to contain /Logout/,620,138,34,34,http://gryffindor.hogwarts.A49.com/php/home,181,0,0
+1730398166371,190,Home Request,200,OK,Thread Group 1-269,text,false,Test failed: text expected to contain /Logout/,620,138,35,35,http://gryffindor.hogwarts.A49.com/php/home,190,0,0
+1730398166374,187,Logout Request,200,OK,Thread Group 1-261,text,true,,620,140,35,35,http://gryffindor.hogwarts.A49.com/php/logout,187,0,0
+1730398166478,149,Login Request,200,OK,Thread Group 1-284,text,true,,620,259,35,35,http://gryffindor.hogwarts.A49.com/php/login,149,0,36
+1730398166487,140,Logout Request,200,OK,Thread Group 1-272,text,true,,620,140,35,35,http://gryffindor.hogwarts.A49.com/php/logout,140,0,0
+1730398166481,146,Login Request,200,OK,Thread Group 1-286,text,true,,620,259,35,35,http://gryffindor.hogwarts.A49.com/php/login,146,0,35
+1730398166509,120,Home Request,200,OK,Thread Group 1-275,text,false,Test failed: text expected to contain /Logout/,620,138,34,34,http://gryffindor.hogwarts.A49.com/php/home,120,0,0
+1730398166476,158,Login Request,200,OK,Thread Group 1-282,text,true,,620,259,35,35,http://gryffindor.hogwarts.A49.com/php/login,158,0,37
+1730398166457,178,Login Request,200,OK,Thread Group 1-283,text,true,,620,259,35,35,http://gryffindor.hogwarts.A49.com/php/login,178,0,37
+1730398166500,135,Login Request,200,OK,Thread Group 1-285,text,true,,620,259,35,35,http://gryffindor.hogwarts.A49.com/php/login,135,0,34
+1730398166504,132,Login Request,200,OK,Thread Group 1-287,text,true,,620,259,36,36,http://gryffindor.hogwarts.A49.com/php/login,132,0,30
+1730398166475,173,Home Request,200,OK,Thread Group 1-273,text,false,Test failed: text expected to contain /Logout/,620,138,39,39,http://gryffindor.hogwarts.A49.com/php/home,173,0,0
+1730398166537,115,Logout Request,200,OK,Thread Group 1-266,text,true,,620,140,40,40,http://gryffindor.hogwarts.A49.com/php/logout,115,0,0
+1730398166536,115,Home Request,200,OK,Thread Group 1-277,text,false,Test failed: text expected to contain /Logout/,620,138,40,40,http://gryffindor.hogwarts.A49.com/php/home,115,0,0
+1730398166537,118,Home Request,200,OK,Thread Group 1-276,text,false,Test failed: text expected to contain /Logout/,620,138,39,39,http://gryffindor.hogwarts.A49.com/php/home,118,0,0
+1730398166426,232,Logout Request,200,OK,Thread Group 1-258,text,true,,620,140,39,39,http://gryffindor.hogwarts.A49.com/php/logout,232,0,0
+1730398166467,191,Logout Request,200,OK,Thread Group 1-263,text,true,,620,140,39,39,http://gryffindor.hogwarts.A49.com/php/logout,191,0,0
+1730398166472,187,Logout Request,200,OK,Thread Group 1-268,text,true,,620,140,39,39,http://gryffindor.hogwarts.A49.com/php/logout,187,0,0
+1730398166465,192,Home Request,200,OK,Thread Group 1-274,text,false,Test failed: text expected to contain /Logout/,620,138,39,39,http://gryffindor.hogwarts.A49.com/php/home,192,0,0
+1730398166433,227,Logout Request,200,OK,Thread Group 1-267,text,true,,620,140,39,39,http://gryffindor.hogwarts.A49.com/php/logout,227,0,0
+1730398166465,195,Logout Request,200,OK,Thread Group 1-265,text,true,,620,140,39,39,http://gryffindor.hogwarts.A49.com/php/logout,195,0,0
+1730398166394,267,Login Request,200,OK,Thread Group 1-278,text,true,,620,259,39,39,http://gryffindor.hogwarts.A49.com/php/login,267,0,70
+1730398166424,253,Logout Request,200,OK,Thread Group 1-260,text,true,,620,140,36,36,http://gryffindor.hogwarts.A49.com/php/logout,253,0,0
+1730398166435,247,Login Request,200,OK,Thread Group 1-281,text,true,,620,259,35,35,http://gryffindor.hogwarts.A49.com/php/login,247,0,34
+1730398166429,259,Login Request,200,OK,Thread Group 1-280,text,true,,620,259,35,35,http://gryffindor.hogwarts.A49.com/php/login,259,0,40
+1730398166427,261,Login Request,200,OK,Thread Group 1-279,text,true,,620,259,35,35,http://gryffindor.hogwarts.A49.com/php/login,261,0,42
+1730398166434,258,Logout Request,200,OK,Thread Group 1-257,text,true,,620,140,35,35,http://gryffindor.hogwarts.A49.com/php/logout,258,0,0
+1730398166498,200,Login Request,200,OK,Thread Group 1-288,text,true,,620,259,36,36,http://gryffindor.hogwarts.A49.com/php/login,200,0,53
+1730398166554,144,Logout Request,200,OK,Thread Group 1-262,text,true,,620,140,36,36,http://gryffindor.hogwarts.A49.com/php/logout,144,0,0
+1730398166540,163,Logout Request,200,OK,Thread Group 1-271,text,true,,620,140,36,36,http://gryffindor.hogwarts.A49.com/php/logout,163,0,0
+1730398166561,142,Logout Request,200,OK,Thread Group 1-269,text,true,,620,140,36,36,http://gryffindor.hogwarts.A49.com/php/logout,142,0,0
+1730398166552,152,Logout Request,200,OK,Thread Group 1-270,text,true,,620,140,36,36,http://gryffindor.hogwarts.A49.com/php/logout,152,0,0
+1730398166553,151,Logout Request,200,OK,Thread Group 1-264,text,true,,620,140,36,36,http://gryffindor.hogwarts.A49.com/php/logout,151,0,0
+1730398166517,191,Login Request,200,OK,Thread Group 1-289,text,true,,620,259,29,29,http://gryffindor.hogwarts.A49.com/php/login,191,0,59
+1730398166538,170,Login Request,200,OK,Thread Group 1-290,text,true,,620,259,29,29,http://gryffindor.hogwarts.A49.com/php/login,170,0,40
+1730398166635,201,Home Request,200,OK,Thread Group 1-283,text,false,Test failed: text expected to contain /Logout/,620,138,28,28,http://gryffindor.hogwarts.A49.com/php/home,201,0,0
+1730398166628,209,Home Request,200,OK,Thread Group 1-284,text,false,Test failed: text expected to contain /Logout/,620,138,28,28,http://gryffindor.hogwarts.A49.com/php/home,209,0,0
+1730398166648,191,Logout Request,200,OK,Thread Group 1-273,text,true,,620,140,28,28,http://gryffindor.hogwarts.A49.com/php/logout,191,0,0
+1730398166629,211,Logout Request,200,OK,Thread Group 1-275,text,true,,620,140,28,28,http://gryffindor.hogwarts.A49.com/php/logout,211,0,0
+1730398166629,211,Home Request,200,OK,Thread Group 1-286,text,false,Test failed: text expected to contain /Logout/,620,138,28,28,http://gryffindor.hogwarts.A49.com/php/home,211,0,0
+1730398166656,185,Logout Request,200,OK,Thread Group 1-276,text,true,,620,140,28,28,http://gryffindor.hogwarts.A49.com/php/logout,185,0,0
+1730398166653,189,Logout Request,200,OK,Thread Group 1-277,text,true,,620,140,28,28,http://gryffindor.hogwarts.A49.com/php/logout,189,0,0
+1730398166574,272,Login Request,200,OK,Thread Group 1-293,text,true,,620,259,27,27,http://gryffindor.hogwarts.A49.com/php/login,272,0,52
+1730398166663,185,Logout Request,200,OK,Thread Group 1-274,text,true,,620,140,27,27,http://gryffindor.hogwarts.A49.com/php/logout,185,0,0
+1730398166634,214,Home Request,200,OK,Thread Group 1-282,text,false,Test failed: text expected to contain /Logout/,620,138,27,27,http://gryffindor.hogwarts.A49.com/php/home,214,0,0
+1730398166636,213,Home Request,200,OK,Thread Group 1-287,text,false,Test failed: text expected to contain /Logout/,620,138,27,27,http://gryffindor.hogwarts.A49.com/php/home,213,0,0
+1730398166635,215,Home Request,200,OK,Thread Group 1-285,text,false,Test failed: text expected to contain /Logout/,620,138,27,27,http://gryffindor.hogwarts.A49.com/php/home,215,0,0
+1730398166633,261,Login Request,200,OK,Thread Group 1-297,text,true,,620,259,23,23,http://gryffindor.hogwarts.A49.com/php/login,261,0,63
+1730398166638,260,Login Request,200,OK,Thread Group 1-300,text,true,,620,259,23,23,http://gryffindor.hogwarts.A49.com/php/login,260,0,61
+1730398166645,274,Login Request,200,OK,Thread Group 1-298,text,true,,620,259,23,23,http://gryffindor.hogwarts.A49.com/php/login,273,0,66
+1730398166709,217,Home Request,200,OK,Thread Group 1-289,text,false,Test failed: text expected to contain /Logout/,620,138,23,23,http://gryffindor.hogwarts.A49.com/php/home,217,0,0
+1730398166709,218,Home Request,200,OK,Thread Group 1-290,text,false,Test failed: text expected to contain /Logout/,620,138,23,23,http://gryffindor.hogwarts.A49.com/php/home,218,0,0
+1730398166560,368,Login Request,200,OK,Thread Group 1-292,text,true,,620,259,23,23,http://gryffindor.hogwarts.A49.com/php/login,368,0,97
+1730398166699,231,Home Request,200,OK,Thread Group 1-288,text,false,Test failed: text expected to contain /Logout/,620,138,23,23,http://gryffindor.hogwarts.A49.com/php/home,231,0,0
+1730398166636,261,Login Request,200,OK,Thread Group 1-299,text,true,,620,259,23,23,http://gryffindor.hogwarts.A49.com/php/login,261,0,60
+1730398166641,256,Login Request,200,OK,Thread Group 1-295,text,true,,620,259,23,23,http://gryffindor.hogwarts.A49.com/php/login,256,0,55
+1730398166649,285,Login Request,200,OK,Thread Group 1-296,text,true,,620,259,23,23,http://gryffindor.hogwarts.A49.com/php/login,285,0,56
+1730398166685,293,Home Request,200,OK,Thread Group 1-281,text,false,Test failed: text expected to contain /Logout/,620,138,23,23,http://gryffindor.hogwarts.A49.com/php/home,293,0,0
+1730398166546,433,Login Request,200,OK,Thread Group 1-291,text,true,,620,259,23,23,http://gryffindor.hogwarts.A49.com/php/login,433,0,105
+1730398166661,317,Home Request,200,OK,Thread Group 1-278,text,false,Test failed: text expected to contain /Logout/,620,138,23,23,http://gryffindor.hogwarts.A49.com/php/home,317,0,0
+1730398166688,297,Home Request,200,OK,Thread Group 1-280,text,false,Test failed: text expected to contain /Logout/,620,138,23,23,http://gryffindor.hogwarts.A49.com/php/home,297,0,0
+1730398166689,302,Home Request,200,OK,Thread Group 1-279,text,false,Test failed: text expected to contain /Logout/,620,138,23,23,http://gryffindor.hogwarts.A49.com/php/home,302,0,0
+1730398166695,301,Login Request,200,OK,Thread Group 1-294,text,true,,620,259,23,23,http://gryffindor.hogwarts.A49.com/php/login,301,0,53
+1730398166841,198,Logout Request,200,OK,Thread Group 1-286,text,true,,620,140,23,23,http://gryffindor.hogwarts.A49.com/php/logout,198,0,0
+1730398166850,190,Logout Request,200,OK,Thread Group 1-287,text,true,,620,140,22,22,http://gryffindor.hogwarts.A49.com/php/logout,190,0,0
+1730398166851,189,Logout Request,200,OK,Thread Group 1-285,text,true,,620,140,22,22,http://gryffindor.hogwarts.A49.com/php/logout,189,0,0
+1730398166850,193,Logout Request,200,OK,Thread Group 1-282,text,true,,620,140,20,20,http://gryffindor.hogwarts.A49.com/php/logout,193,0,0
+1730398166847,201,Home Request,200,OK,Thread Group 1-293,text,false,Test failed: text expected to contain /Logout/,620,138,19,19,http://gryffindor.hogwarts.A49.com/php/home,200,0,0
+1730398166838,214,Logout Request,200,OK,Thread Group 1-283,text,true,,620,140,19,19,http://gryffindor.hogwarts.A49.com/php/logout,214,0,0
+1730398166927,140,Logout Request,200,OK,Thread Group 1-290,text,true,,620,140,18,18,http://gryffindor.hogwarts.A49.com/php/logout,140,0,0
+1730398166927,141,Logout Request,200,OK,Thread Group 1-289,text,true,,620,140,17,17,http://gryffindor.hogwarts.A49.com/php/logout,141,0,0
+1730398166900,169,Home Request,200,OK,Thread Group 1-300,text,false,Test failed: text expected to contain /Logout/,620,138,17,17,http://gryffindor.hogwarts.A49.com/php/home,169,0,0
+1730398166895,174,Home Request,200,OK,Thread Group 1-297,text,false,Test failed: text expected to contain /Logout/,620,138,17,17,http://gryffindor.hogwarts.A49.com/php/home,174,0,0
+1730398166919,153,Home Request,200,OK,Thread Group 1-298,text,false,Test failed: text expected to contain /Logout/,620,138,16,16,http://gryffindor.hogwarts.A49.com/php/home,153,0,0
+1730398166838,235,Logout Request,200,OK,Thread Group 1-284,text,true,,620,140,16,16,http://gryffindor.hogwarts.A49.com/php/logout,235,0,0
+1730398166930,144,Logout Request,200,OK,Thread Group 1-288,text,true,,620,140,15,15,http://gryffindor.hogwarts.A49.com/php/logout,144,0,0
+1730398166933,160,Home Request,200,OK,Thread Group 1-295,text,false,Test failed: text expected to contain /Logout/,620,138,14,14,http://gryffindor.hogwarts.A49.com/php/home,160,0,0
+1730398166932,162,Home Request,200,OK,Thread Group 1-299,text,false,Test failed: text expected to contain /Logout/,620,138,14,14,http://gryffindor.hogwarts.A49.com/php/home,162,0,0
+1730398166934,161,Home Request,200,OK,Thread Group 1-296,text,false,Test failed: text expected to contain /Logout/,620,138,14,14,http://gryffindor.hogwarts.A49.com/php/home,161,0,0
+1730398166981,114,Home Request,200,OK,Thread Group 1-291,text,false,Test failed: text expected to contain /Logout/,620,138,14,14,http://gryffindor.hogwarts.A49.com/php/home,114,0,0
+1730398166980,116,Logout Request,200,OK,Thread Group 1-281,text,true,,620,140,14,14,http://gryffindor.hogwarts.A49.com/php/logout,116,0,0
+1730398166929,167,Home Request,200,OK,Thread Group 1-292,text,false,Test failed: text expected to contain /Logout/,620,138,14,14,http://gryffindor.hogwarts.A49.com/php/home,167,0,0
+1730398166982,119,Logout Request,200,OK,Thread Group 1-278,text,true,,620,140,13,13,http://gryffindor.hogwarts.A49.com/php/logout,118,0,0
+1730398166986,115,Logout Request,200,OK,Thread Group 1-280,text,true,,620,140,13,13,http://gryffindor.hogwarts.A49.com/php/logout,115,0,0
+1730398166992,119,Logout Request,200,OK,Thread Group 1-279,text,true,,620,140,11,11,http://gryffindor.hogwarts.A49.com/php/logout,119,0,0
+1730398166997,113,Home Request,200,OK,Thread Group 1-294,text,false,Test failed: text expected to contain /Logout/,620,138,11,11,http://gryffindor.hogwarts.A49.com/php/home,113,0,0
+1730398167048,78,Logout Request,200,OK,Thread Group 1-293,text,true,,620,140,10,10,http://gryffindor.hogwarts.A49.com/php/logout,78,0,0
+1730398167069,80,Logout Request,200,OK,Thread Group 1-300,text,true,,620,140,9,9,http://gryffindor.hogwarts.A49.com/php/logout,80,0,0
+1730398167070,83,Logout Request,200,OK,Thread Group 1-297,text,true,,620,140,8,8,http://gryffindor.hogwarts.A49.com/php/logout,83,0,0
+1730398167072,83,Logout Request,200,OK,Thread Group 1-298,text,true,,620,140,7,7,http://gryffindor.hogwarts.A49.com/php/logout,83,0,0
+1730398167096,87,Logout Request,200,OK,Thread Group 1-292,text,true,,620,140,6,6,http://gryffindor.hogwarts.A49.com/php/logout,87,0,0
+1730398167098,100,Logout Request,200,OK,Thread Group 1-291,text,true,,620,140,5,5,http://gryffindor.hogwarts.A49.com/php/logout,100,0,0
+1730398167094,104,Logout Request,200,OK,Thread Group 1-299,text,true,,620,140,5,5,http://gryffindor.hogwarts.A49.com/php/logout,104,0,0
+1730398167111,90,Logout Request,200,OK,Thread Group 1-294,text,true,,620,140,3,3,http://gryffindor.hogwarts.A49.com/php/logout,90,0,0
+1730398167095,106,Logout Request,200,OK,Thread Group 1-296,text,true,,620,140,3,3,http://gryffindor.hogwarts.A49.com/php/logout,106,0,0
+1730398167094,109,Logout Request,200,OK,Thread Group 1-295,text,true,,620,140,1,1,http://gryffindor.hogwarts.A49.com/php/logout,109,0,0
