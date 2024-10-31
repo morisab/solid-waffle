@@ -133,7 +133,7 @@ $(document).ready(function() {
         widgets: ['zebra']
     });
 
-    var data = {"OkPercent": 66.66666666666667, "KoPercent": 33.333333333333336};
+    var data = {"OkPercent": 92.37634808478988, "KoPercent": 7.623651915210115};
     var dataset = [
         {
             "label" : "FAIL",
@@ -173,7 +173,7 @@ $(document).ready(function() {
     });
 
     // Creates APDEX table
-    createTable($("#apdexTable"), {"supportsControllersDiscrimination": true, "overall": {"data": [0.3972222222222222, 500, 1500, "Total"], "isController": false}, "titles": ["Apdex", "T (Toleration threshold)", "F (Frustration threshold)", "Label"], "items": [{"data": [0.815, 500, 1500, "Logout Request"], "isController": false}, {"data": [0.37666666666666665, 500, 1500, "Login Request"], "isController": false}, {"data": [0.0, 500, 1500, "Home Request"], "isController": false}]}, function(index, item){
+    createTable($("#apdexTable"), {"supportsControllersDiscrimination": true, "overall": {"data": [0.5396058014131647, 500, 1500, "Total"], "isController": false}, "titles": ["Apdex", "T (Toleration threshold)", "F (Frustration threshold)", "Label"], "items": [{"data": [0.435, 500, 1500, "Logout Request"], "isController": false}, {"data": [0.77, 500, 1500, "Logout Request-1"], "isController": false}, {"data": [0.7283333333333334, 500, 1500, "Logout Request-0"], "isController": false}, {"data": [0.7366666666666667, 500, 1500, "Login Request-1"], "isController": false}, {"data": [0.7291666666666666, 500, 1500, "Home Request-1"], "isController": false}, {"data": [0.6536585365853659, 500, 1500, "Login Request-2"], "isController": false}, {"data": [0.6796875, 500, 1500, "Home Request-0"], "isController": false}, {"data": [0.04833333333333333, 500, 1500, "Login Request"], "isController": false}, {"data": [0.4483333333333333, 500, 1500, "Home Request"], "isController": false}, {"data": [0.32166666666666666, 500, 1500, "Login Request-0"], "isController": false}]}, function(index, item){
         switch(index){
             case 0:
                 item = item.toFixed(3);
@@ -187,7 +187,7 @@ $(document).ready(function() {
     }, [[0, 0]], 3);
 
     // Create statistics table
-    createTable($("#statisticsTable"), {"supportsControllersDiscrimination": true, "overall": {"data": ["Total", 900, 300, 33.333333333333336, 822.1499999999994, 45, 3090, 565.5, 2091.8, 2687.2999999999993, 2913.98, 127.7139208173691, 77.57622924648787, 22.32499201787995], "isController": false}, "titles": ["Label", "#Samples", "FAIL", "Error %", "Average", "Min", "Max", "Median", "90th pct", "95th pct", "99th pct", "Transactions/s", "Received", "Sent"], "items": [{"data": ["Logout Request", 300, 0, 0.0, 485.3566666666669, 45, 1519, 320.5, 1142.9, 1268.75, 1500.6400000000003, 64.36387041407424, 39.09015635056855, 8.799747908174213], "isController": false}, {"data": ["Login Request", 300, 0, 0.0, 1462.666666666668, 101, 3090, 1521.0, 2783.5, 2831.75, 3087.96, 43.956043956043956, 26.701865842490843, 11.117788461538462], "isController": false}, {"data": ["Home Request", 300, 300, 100.0, 518.4266666666666, 81, 1515, 332.0, 923.6000000000001, 1127.9, 1474.6800000000012, 59.4059405940594, 36.08717512376238, 8.005878712871288], "isController": false}]}, function(index, item){
+    createTable($("#statisticsTable"), {"supportsControllersDiscrimination": true, "overall": {"data": ["Total", 2689, 205, 7.623651915210115, 1065.3518036444798, 44, 7798, 716.0, 2320.0, 2955.0, 4015.6999999999985, 239.10723812911257, 165.7528579606082, 64.35986267339499], "isController": false}, "titles": ["Label", "#Samples", "FAIL", "Error %", "Average", "Min", "Max", "Median", "90th pct", "95th pct", "99th pct", "Transactions/s", "Received", "Sent"], "items": [{"data": ["Logout Request", 300, 0, 0.0, 1178.7433333333336, 286, 3692, 1024.5, 1804.2000000000003, 2752.7, 3146.9900000000007, 39.04216553878189, 41.977953377147315, 14.450176503123373], "isController": false}, {"data": ["Logout Request-1", 300, 0, 0.0, 546.7, 44, 2730, 471.5, 950.2000000000023, 1308.6999999999998, 2460.84, 41.26547455295736, 31.553580639614857, 7.616381533700138], "isController": false}, {"data": ["Logout Request-0", 300, 0, 0.0, 618.8166666666667, 95, 2841, 499.0, 1159.2000000000025, 1508.2999999999997, 2528.76, 39.729837107667855, 12.337976758045292, 7.37174711958681], "isController": false}, {"data": ["Login Request-1", 300, 0, 0.0, 628.4899999999997, 167, 2545, 476.0, 1202.2000000000003, 1578.9, 2385.420000000004, 39.49967083607637, 14.489641622778144, 7.2518926925608955], "isController": false}, {"data": ["Home Request-1", 192, 0, 0.0, 627.9739583333338, 144, 2375, 490.5, 1271.6000000000001, 1532.7, 2344.31, 23.759435713401807, 18.16761539413439, 4.385286474446232], "isController": false}, {"data": ["Login Request-2", 205, 0, 0.0, 767.1317073170732, 187, 2532, 567.0, 1465.2, 1755.699999999999, 2493.08, 25.12562814070352, 19.21227229899497, 4.637445037688442], "isController": false}, {"data": ["Home Request-0", 192, 0, 0.0, 758.5781249999999, 159, 2670, 517.5, 1696.4000000000012, 2401.45, 2630.9399999999996, 23.032629558541267, 7.15271113243762, 4.2286468330134355], "isController": false}, {"data": ["Login Request", 300, 205, 68.33333333333333, 2644.51, 471, 7798, 2655.0, 3924.8000000000006, 4210.099999999999, 5082.950000000001, 28.91844997108155, 36.308563626614614, 16.412067578802777], "isController": false}, {"data": ["Home Request", 300, 0, 0.0, 1187.3733333333323, 166, 3784, 1055.0, 2232.6000000000004, 2692.5499999999997, 3202.9100000000008, 35.31489111241907, 30.50875515008829, 10.655164802825192], "isController": false}, {"data": ["Login Request-0", 300, 0, 0.0, 1332.8699999999997, 243, 2726, 1442.0, 2131.8, 2155.95, 2596.2300000000014, 33.68137420006737, 12.334487622094981, 8.683479285954867], "isController": false}]}, function(index, item){
         switch(index){
             // Errors pct
             case 3:
@@ -217,7 +217,7 @@ $(document).ready(function() {
     }, [[0, 0]], 0, summaryTableHeader);
 
     // Create error table
-    createTable($("#errorsTable"), {"supportsControllersDiscrimination": false, "titles": ["Type of error", "Number of errors", "% in errors", "% in all samples"], "items": [{"data": ["Test failed: text expected to contain /Logout/", 300, 100.0, 33.333333333333336], "isController": false}]}, function(index, item){
+    createTable($("#errorsTable"), {"supportsControllersDiscrimination": false, "titles": ["Type of error", "Number of errors", "% in errors", "% in all samples"], "items": [{"data": ["Test failed: text expected to contain /Logout/", 205, 100.0, 7.623651915210115], "isController": false}]}, function(index, item){
         switch(index){
             case 2:
             case 3:
@@ -228,7 +228,7 @@ $(document).ready(function() {
     }, [[1, 1]]);
 
         // Create top5 errors by sampler
-    createTable($("#top5ErrorsBySamplerTable"), {"supportsControllersDiscrimination": false, "overall": {"data": ["Total", 900, 300, "Test failed: text expected to contain /Logout/", 300, "", "", "", "", "", "", "", ""], "isController": false}, "titles": ["Sample", "#Samples", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors"], "items": [{"data": [], "isController": false}, {"data": [], "isController": false}, {"data": ["Home Request", 300, 300, "Test failed: text expected to contain /Logout/", 300, "", "", "", "", "", "", "", ""], "isController": false}]}, function(index, item){
+    createTable($("#top5ErrorsBySamplerTable"), {"supportsControllersDiscrimination": false, "overall": {"data": ["Total", 2689, 205, "Test failed: text expected to contain /Logout/", 205, "", "", "", "", "", "", "", ""], "isController": false}, "titles": ["Sample", "#Samples", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors", "Error", "#Errors"], "items": [{"data": [], "isController": false}, {"data": [], "isController": false}, {"data": [], "isController": false}, {"data": [], "isController": false}, {"data": [], "isController": false}, {"data": [], "isController": false}, {"data": [], "isController": false}, {"data": ["Login Request", 300, 205, "Test failed: text expected to contain /Logout/", 205, "", "", "", "", "", "", "", ""], "isController": false}, {"data": [], "isController": false}, {"data": [], "isController": false}]}, function(index, item){
         return item;
     }, [[0, 0]], 0);
 
